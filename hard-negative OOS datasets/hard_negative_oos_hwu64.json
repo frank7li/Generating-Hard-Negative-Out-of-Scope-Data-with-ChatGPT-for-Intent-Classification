@@ -1,0 +1,1690 @@
+[
+    [
+        "what are some tips to wake up refreshed tomorrow",
+        "alarm_set"
+    ],
+    [
+        "how can i wake up feeling refreshed without an alarm",
+        "alarm_set"
+    ],
+    [
+        "what are some natural ways to wake up without an alarm",
+        "alarm_set"
+    ],
+    [
+        "how can i wake up more energized without an alarm",
+        "alarm_set"
+    ],
+    [
+        "can i set a reminder for tomorrow",
+        "alarm_set"
+    ],
+    [
+        "can i schedule an appointment for tomorrow",
+        "alarm_set"
+    ],
+    [
+        "could you please keep it calm",
+        "audio_volume_mute"
+    ],
+    [
+        "is the background sound bothering you",
+        "audio_volume_mute"
+    ],
+    [
+        "are the lights in the room energy-efficient",
+        "iot_hue_lightoff"
+    ],
+    [
+        "is the speaker volume too loud",
+        "audio_volume_mute"
+    ],
+    [
+        "please check the speaker sound.",
+        "audio_volume_mute"
+    ],
+    [
+        "is the speaker noise level too high",
+        "audio_volume_mute"
+    ],
+    [
+        "is the speaker output too loud",
+        "audio_volume_mute"
+    ],
+    [
+        "is the sound level too high",
+        "audio_volume_mute"
+    ],
+    [
+        "is the background noise too loud",
+        "audio_volume_mute"
+    ],
+    [
+        "is the sound disturbingly loud",
+        "audio_volume_mute"
+    ],
+    [
+        "does exposure to bright light affect our sleep-wake cycle",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can light exposure impact plant growth and development",
+        "iot_hue_lightchange"
+    ],
+    [
+        "how does light affect color perception",
+        "iot_hue_lightchange"
+    ],
+    [
+        "what is the relationship between light and color in photography",
+        "iot_hue_lightchange"
+    ],
+    [
+        "how does light influence the perception of color in art",
+        "iot_hue_lightchange"
+    ],
+    [
+        "what causes the blue color in the sky",
+        "iot_hue_lightchange"
+    ],
+    [
+        "how does blue light impact eye health",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can exposure to natural light make you feel happier",
+        "iot_hue_lightchange"
+    ],
+    [
+        "how does light make plants grow",
+        "iot_hue_lightchange"
+    ],
+    [
+        "does aging affect the ability to perceive color changes",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can certain foods change the color of your urine",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can climate change make allergies worse",
+        "iot_hue_lightchange"
+    ],
+    [
+        "what causes the blue color in ocean water",
+        "iot_hue_lightchange"
+    ],
+    [
+        "why is the sky blue in color",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can certain foods make your urine change color",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can music make you feel blue",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can exercise make you feel less blue",
+        "iot_hue_lightchange"
+    ],
+    [
+        "how does light turn into energy in photosynthesis",
+        "iot_hue_lightoff"
+    ],
+    [
+        "can you explain how light can turn into a rainbow",
+        "iot_hue_lightoff"
+    ],
+    [
+        "could you please explain how light moves",
+        "iot_hue_lightoff"
+    ],
+    [
+        "could you please tell me how light behaves",
+        "iot_hue_lightoff"
+    ],
+    [
+        "could you please suggest some books about light",
+        "iot_hue_lightoff"
+    ],
+    [
+        "could you please explain the concept of light speed",
+        "iot_hue_lightoff"
+    ],
+    [
+        "is the light in the room adjustable",
+        "iot_hue_lightoff"
+    ],
+    [
+        "what are the benefits of light therapy for mood change",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can you explain the process of how light can cause color changes",
+        "iot_hue_lightchange"
+    ],
+    [
+        "does light affect the color of objects",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can blue light affect sleep quality",
+        "iot_hue_lightchange"
+    ],
+    [
+        "is blue light harmful to skin",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can light make colors appear brighter",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can light make a room look bigger",
+        "iot_hue_lightchange"
+    ],
+    [
+        "how does temperature affect color change",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can emotions influence color perception",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can temperature change the color of a blue flame",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can emotions change the perception of a blue object",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can weather conditions change the appearance of a blue sky",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can medication change the color of your blue eyes",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can exercise change your skin's appearance",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can stress change your hair texture",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can exercise make you more resistant to temperature changes",
+        "iot_hue_lightchange"
+    ],
+    [
+        "why do some flowers have blue petals",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can the color blue evoke feelings of calmness",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can makeup change the color of your skin",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can stress make your hair color fade",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can aging make your hair color change",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can certain medications make your skin turn blue",
+        "iot_hue_lightchange"
+    ],
+    [
+        "can cold temperatures make your lips turn blue",
+        "iot_hue_lightchange"
+    ],
+    [
+        "here's another question: how does light turn a seed into a plant",
+        "iot_hue_lightoff"
+    ],
+    [
+        "sure! here's another question: does light turn water into steam",
+        "iot_hue_lightoff"
+    ],
+    [
+        "here's another question: does the room have natural light",
+        "iot_hue_lightoff"
+    ],
+    [
+        "here's another question: could you please turn on the fan",
+        "iot_hue_lightoff"
+    ],
+    [
+        "here's another question: could you please decorate the room",
+        "iot_hue_lightoff"
+    ],
+    [
+        "here's another question: can you please paint the room",
+        "iot_hue_lightoff"
+    ],
+    [
+        "could you please rearrange the bedroom furniture",
+        "iot_hue_lightoff"
+    ],
+    [
+        "is there a mirror in the bedroom",
+        "iot_hue_lightoff"
+    ],
+    [
+        "is the bedroom room spacious",
+        "iot_hue_lightoff"
+    ],
+    [
+        "is the bedroom room air-conditioned",
+        "iot_hue_lightoff"
+    ],
+    [
+        "is the bedroom room carpeted",
+        "iot_hue_lightoff"
+    ],
+    [
+        "what can dispel the darkness",
+        "iot_hue_lighton"
+    ],
+    [
+        "can light overcome darkness",
+        "iot_hue_lighton"
+    ],
+    [
+        "could you please turn off the fan",
+        "iot_hue_lighton"
+    ],
+    [
+        "could you please turn on the air conditioning",
+        "iot_hue_lighton"
+    ],
+    [
+        "can you please turn off the tv",
+        "iot_hue_lighton"
+    ],
+    [
+        "is it possible to turn off the pitch dark",
+        "iot_hue_lighton"
+    ],
+    [
+        "can you fix the broken light switch",
+        "iot_hue_lighton"
+    ],
+    [
+        "why can't i see in the dark",
+        "iot_hue_lighton"
+    ],
+    [
+        "can i use lighter shades to lower the overall lighting",
+        "iot_hue_lightdim"
+    ],
+    [
+        "can you please lower the thermostat",
+        "iot_hue_lightdim"
+    ],
+    [
+        "can you please dim the display",
+        "iot_hue_lightdim"
+    ],
+    [
+        "please turn off the fan, ok",
+        "iot_hue_lightdim"
+    ],
+    [
+        "is a cordless vacuum cleaner more convenient",
+        "iot_cleaning"
+    ],
+    [
+        "can the vacuum robot climb stairs",
+        "iot_cleaning"
+    ],
+    [
+        "can i turn the vacuum in different directions",
+        "iot_cleaning"
+    ],
+    [
+        "is the cleaner robot capable of learning",
+        "iot_cleaning"
+    ],
+    [
+        "does the cleaner robot have a built-in camera",
+        "iot_cleaning"
+    ],
+    [
+        "can i start the robot remotely",
+        "iot_cleaning"
+    ],
+    [
+        "can i turn on and start the device simultaneously",
+        "iot_cleaning"
+    ],
+    [
+        "can i turn on the device and then start it",
+        "iot_cleaning"
+    ],
+    [
+        "can the robot turn around obstacles",
+        "iot_cleaning"
+    ],
+    [
+        "can the robot perform sharp turns",
+        "iot_cleaning"
+    ],
+    [
+        "can the robot make u-turns",
+        "iot_cleaning"
+    ],
+    [
+        "does the robot have a rotating feature",
+        "iot_cleaning"
+    ],
+    [
+        "can i play copyrighted songs on my live stream",
+        "play_music"
+    ],
+    [
+        "do you like the current date",
+        "general_quirky"
+    ],
+    [
+        "is today a good day",
+        "general_quirky"
+    ],
+    [
+        "do you feel like today is a good day",
+        "general_quirky"
+    ],
+    [
+        "what do you think of today",
+        "general_quirky"
+    ],
+    [
+        "can you tell me about your day",
+        "general_quirky"
+    ],
+    [
+        "can you tell me about your day so far",
+        "general_quirky"
+    ],
+    [
+        "can you tell me how your day has been",
+        "general_quirky"
+    ],
+    [
+        "can you tell me what you like",
+        "general_quirky"
+    ],
+    [
+        "can you tell me what you enjoy",
+        "general_quirky"
+    ],
+    [
+        "tell me something you enjoy.",
+        "general_quirky"
+    ],
+    [
+        "do you have a favorite day",
+        "general_quirky"
+    ],
+    [
+        "do you enjoy daylight",
+        "general_quirky"
+    ],
+    [
+        "did you enjoy your day",
+        "general_quirky"
+    ],
+    [
+        "hey, what's your favorite food",
+        "general_greet"
+    ],
+    [
+        "hey, wanna go on a date",
+        "general_greet"
+    ],
+    [
+        "hey, how's your dating life",
+        "general_greet"
+    ],
+    [
+        "hello! any good workout tips",
+        "general_greet"
+    ],
+    [
+        "what are some time-saving hacks for a busy day",
+        "datetime_query"
+    ],
+    [
+        "what is the best time of day to exercise",
+        "datetime_query"
+    ],
+    [
+        "how can i improve my time management skills",
+        "datetime_query"
+    ],
+    [
+        "can you tell a bedtime story about time",
+        "datetime_query"
+    ],
+    [
+        "what time does the restaurant tell you to arrive",
+        "datetime_query"
+    ],
+    [
+        "can you tell me the current location",
+        "datetime_query"
+    ],
+    [
+        "can you tell me the current status",
+        "datetime_query"
+    ],
+    [
+        "what are the hundred years of the time magazine's most influential people",
+        "datetime_convert"
+    ],
+    [
+        "are there any hundred-year-old trees in this area",
+        "datetime_convert"
+    ],
+    [
+        "are there any hundred-year-old zones",
+        "datetime_convert"
+    ],
+    [
+        "are there any time zones with a hundred-minute difference",
+        "datetime_convert"
+    ],
+    [
+        "are there any hundred-mile zones",
+        "datetime_convert"
+    ],
+    [
+        "is there a dress code for this restaurant",
+        "takeaway_query"
+    ],
+    [
+        "can i set and turn down the temperature",
+        "alarm_remove"
+    ],
+    [
+        "what's the latest trend",
+        "news_query"
+    ],
+    [
+        "what's the story",
+        "news_query"
+    ],
+    [
+        "what's the scoop",
+        "news_query"
+    ],
+    [
+        "what type of songs do you like",
+        "music_likeness"
+    ],
+    [
+        "what is your preferred music streaming platform",
+        "music_likeness"
+    ],
+    [
+        "do you want to save your liked videos",
+        "music_likeness"
+    ],
+    [
+        "can i save my liked articles offline",
+        "music_likeness"
+    ],
+    [
+        "can i save my liked photos in a separate folder",
+        "music_likeness"
+    ],
+    [
+        "can i save music to my phone",
+        "music_likeness"
+    ],
+    [
+        "can i save music to a usb drive",
+        "music_likeness"
+    ],
+    [
+        "can i save my favorite articles offline",
+        "music_likeness"
+    ],
+    [
+        "can i save my favorite photos to a separate album",
+        "music_likeness"
+    ],
+    [
+        "do you enjoy playing music instruments",
+        "music_likeness"
+    ],
+    [
+        "do you enjoy singing along to music",
+        "music_likeness"
+    ],
+    [
+        "do you have a favorite food dish",
+        "music_likeness"
+    ],
+    [
+        "is this song part of a larger musical composition",
+        "music_query"
+    ],
+    [
+        "ok. name of the playing",
+        "music_query"
+    ],
+    [
+        "can you please turn on the fan",
+        "iot_hue_lightup"
+    ],
+    [
+        "could you please turn off the tv",
+        "iot_hue_lightup"
+    ],
+    [
+        "please increase the temperature.",
+        "iot_hue_lightup"
+    ],
+    [
+        "could you please decorate the room",
+        "iot_hue_lightup"
+    ],
+    [
+        "can you turn up the heat",
+        "iot_hue_lightup"
+    ],
+    [
+        "is it possible to increase the space in the room",
+        "iot_hue_lightup"
+    ],
+    [
+        "can you increase the seating capacity in the room",
+        "iot_hue_lightup"
+    ],
+    [
+        "is there a way to increase the storage space in the room",
+        "iot_hue_lightup"
+    ],
+    [
+        "do i need sunblock for the weather",
+        "weather_query"
+    ],
+    [
+        "what items do i need for the weather",
+        "weather_query"
+    ],
+    [
+        "are we going out today",
+        "weather_query"
+    ],
+    [
+        "are we going to the park today",
+        "weather_query"
+    ],
+    [
+        "are we going on a team outing this week",
+        "weather_query"
+    ],
+    [
+        "do we need supplies for the trip",
+        "weather_query"
+    ],
+    [
+        "do we need permission to attend the conference",
+        "weather_query"
+    ],
+    [
+        "can shuffle mode enhance the listening experience of a song",
+        "music_settings"
+    ],
+    [
+        "can you narrate a hilarious incident",
+        "general_joke"
+    ],
+    [
+        "can you share a good story with me",
+        "general_joke"
+    ],
+    [
+        "can you narrate a positive experience you had",
+        "general_joke"
+    ],
+    [
+        "can you recount a heartwarming story",
+        "general_joke"
+    ],
+    [
+        "can you describe a positive event from your life",
+        "general_joke"
+    ],
+    [
+        "do you like to play instruments",
+        "music_dislikeness"
+    ],
+    [
+        "do you like what you hear",
+        "music_dislikeness"
+    ],
+    [
+        "do you enjoy hearing new songs",
+        "music_dislikeness"
+    ],
+    [
+        "does volume affect the sound quality",
+        "audio_volume_other"
+    ],
+    [
+        "does volume affect sound clarity",
+        "audio_volume_other"
+    ],
+    [
+        "can i modify the setting",
+        "audio_volume_other"
+    ],
+    [
+        "can i modify the display settings",
+        "audio_volume_other"
+    ],
+    [
+        "can i customize the app settings",
+        "audio_volume_other"
+    ],
+    [
+        "can i modify the keyboard settings",
+        "audio_volume_other"
+    ],
+    [
+        "can i alter the camera settings",
+        "audio_volume_other"
+    ],
+    [
+        "can i adjust the microphone settings",
+        "audio_volume_other"
+    ],
+    [
+        "can i customize the sound effects",
+        "audio_volume_other"
+    ],
+    [
+        "can i fine-tune the video settings",
+        "audio_volume_other"
+    ],
+    [
+        "can i customize the display settings",
+        "audio_volume_other"
+    ],
+    [
+        "can i customize the font settings",
+        "audio_volume_other"
+    ],
+    [
+        "can you make a personalized cup for me",
+        "iot_coffee"
+    ],
+    [
+        "how can i make a diy cup holder",
+        "iot_coffee"
+    ],
+    [
+        "how do i make a homemade washing machine",
+        "iot_coffee"
+    ],
+    [
+        "can you teach me how to make a simple sewing machine",
+        "iot_coffee"
+    ],
+    [
+        "can i have a refill, please",
+        "iot_coffee"
+    ],
+    [
+        "may i have a larger cup, please",
+        "iot_coffee"
+    ],
+    [
+        "can you fix my computer, please",
+        "iot_coffee"
+    ],
+    [
+        "can you please operate the photocopy machine",
+        "iot_coffee"
+    ],
+    [
+        "could you please reset the vending machine",
+        "iot_coffee"
+    ],
+    [
+        "can you please operate the cash counting machine",
+        "iot_coffee"
+    ],
+    [
+        "does the copying machine have a cup holder",
+        "iot_coffee"
+    ],
+    [
+        "can you kindly assist me in adjusting the thermostat, please",
+        "audio_volume_up"
+    ],
+    [
+        "can you please turn on the fan",
+        "audio_volume_up"
+    ],
+    [
+        "could you please set the speaker equalizer",
+        "audio_volume_up"
+    ],
+    [
+        "can you provide me with tips on how to keep my electrical plugs safe and secure",
+        "iot_wemo_on"
+    ],
+    [
+        "can you recommend ways to extend the lifespan of electrical plugs",
+        "iot_wemo_on"
+    ],
+    [
+        "how do i safely connect a plug to a socket",
+        "iot_wemo_on"
+    ],
+    [
+        "what are the different types of plugs and sockets available",
+        "iot_wemo_on"
+    ],
+    [
+        "can i plug multiple devices into the socket",
+        "iot_wemo_off"
+    ],
+    [
+        "is the wemo socket energy-efficient",
+        "iot_wemo_off"
+    ],
+    [
+        "what are the current sports scores today",
+        "qa_stock"
+    ],
+    [
+        "what are the apple product releases today",
+        "qa_stock"
+    ],
+    [
+        "can you play and turn off the tv",
+        "play_radio"
+    ],
+    [
+        "can you please turn on the fan",
+        "play_radio"
+    ],
+    [
+        "can you please turn on the heater",
+        "play_radio"
+    ],
+    [
+        "is there a customer support service for facebook",
+        "social_post"
+    ],
+    [
+        "can you tell me what color does it come in",
+        "qa_factoid"
+    ],
+    [
+        "how many people does it take to do this task",
+        "qa_factoid"
+    ],
+    [
+        "how many students attend this school",
+        "qa_factoid"
+    ],
+    [
+        "how old does the person need to be",
+        "qa_factoid"
+    ],
+    [
+        "how old do you have to be",
+        "qa_factoid"
+    ],
+    [
+        "how old is the world",
+        "qa_factoid"
+    ],
+    [
+        "what does the world need",
+        "qa_factoid"
+    ],
+    [
+        "what can the world do",
+        "qa_factoid"
+    ],
+    [
+        "who governs the world",
+        "qa_factoid"
+    ],
+    [
+        "what changes the world",
+        "qa_factoid"
+    ],
+    [
+        "what's the dress code for the event",
+        "recommendation_events"
+    ],
+    [
+        "any exciting weekend adventures",
+        "recommendation_events"
+    ],
+    [
+        "can i resume a paused video game",
+        "play_audiobook"
+    ],
+    [
+        "can i play a physical book",
+        "play_audiobook"
+    ],
+    [
+        "can i play a comic book",
+        "play_audiobook"
+    ],
+    [
+        "can i play a picture book",
+        "play_audiobook"
+    ],
+    [
+        "is an audiobook the same as an audio recording",
+        "play_audiobook"
+    ],
+    [
+        "can i resume my reading progress in a physical book",
+        "play_audiobook"
+    ],
+    [
+        "can i play a specific episode on repeat",
+        "play_podcasts"
+    ],
+    [
+        "what's the next level to play",
+        "play_podcasts"
+    ],
+    [
+        "can you please play a video",
+        "play_podcasts"
+    ],
+    [
+        "what is the next chapter",
+        "play_podcasts"
+    ],
+    [
+        "is there a facebook integration with medium",
+        "social_query"
+    ],
+    [
+        "can i monetize my content on medium with social media",
+        "social_query"
+    ],
+    [
+        "what are the new features on medium",
+        "social_query"
+    ],
+    [
+        "is there a new medium subscription plan",
+        "social_query"
+    ],
+    [
+        "is there a new medium publishing format",
+        "social_query"
+    ],
+    [
+        "how do i obtain it",
+        "transport_query"
+    ],
+    [
+        "how can i acquire it",
+        "transport_query"
+    ],
+    [
+        "can email replace traditional mail",
+        "email_query"
+    ],
+    [
+        "did you check for any new arrivals",
+        "email_query"
+    ],
+    [
+        "what's the newest update",
+        "email_query"
+    ],
+    [
+        "what's the newest release",
+        "email_query"
+    ],
+    [
+        "what's the latest update",
+        "email_query"
+    ],
+    [
+        "is it time to check the mail",
+        "email_query"
+    ],
+    [
+        "did you check the latest status",
+        "email_query"
+    ],
+    [
+        "can you tell me some tips for creating a helpful packing list",
+        "lists_query"
+    ],
+    [
+        "tell me what's on tv today.",
+        "lists_query"
+    ],
+    [
+        "what books are you reading today",
+        "lists_query"
+    ],
+    [
+        "do you enjoy playing strategy board games",
+        "play_game"
+    ],
+    [
+        "would you like to play and let loose",
+        "play_game"
+    ],
+    [
+        "do you want to play and let your creativity flow",
+        "play_game"
+    ],
+    [
+        "do you want to play and let go of your worries",
+        "play_game"
+    ],
+    [
+        "do you want to play and open a surprise gift",
+        "play_game"
+    ],
+    [
+        "do you enjoy playing and opening new apps",
+        "play_game"
+    ],
+    [
+        "shall we play and start a new project",
+        "play_game"
+    ],
+    [
+        "can you let me open this new package",
+        "play_game"
+    ],
+    [
+        "can you let me open the window",
+        "play_game"
+    ],
+    [
+        "can you let me open the jar for you",
+        "play_game"
+    ],
+    [
+        "can you let me start the engine",
+        "play_game"
+    ],
+    [
+        "can i open and start the new book",
+        "play_game"
+    ],
+    [
+        "can we open and start the new fitness program",
+        "play_game"
+    ],
+    [
+        "what is the current mood like",
+        "transport_traffic"
+    ],
+    [
+        "what does the current situation look like",
+        "transport_traffic"
+    ],
+    [
+        "what is the right turn condition like",
+        "transport_traffic"
+    ],
+    [
+        "would a cooky be a suitable snack for a picnic",
+        "cooking_query"
+    ],
+    [
+        "would a cooky complement a cup of tea",
+        "cooking_query"
+    ],
+    [
+        "would a packed lunch be a healthier option",
+        "cooking_query"
+    ],
+    [
+        "would a balanced lunch provide sustained energy",
+        "cooking_query"
+    ],
+    [
+        "can you please share the guest list",
+        "lists_remove"
+    ],
+    [
+        "can i delete a bookmark from my browser",
+        "lists_remove"
+    ],
+    [
+        "can you please check the item",
+        "lists_remove"
+    ],
+    [
+        "what is the customer service contact number for the bank",
+        "email_querycontact"
+    ],
+    [
+        "what is the contact address for the nearest post office",
+        "email_querycontact"
+    ],
+    [
+        "what is the contact address for the nearest grocery store",
+        "email_querycontact"
+    ],
+    [
+        "what's the phone number for the local bakery",
+        "email_querycontact"
+    ],
+    [
+        "can you give me the phone number for the nearest pharmacy",
+        "email_querycontact"
+    ],
+    [
+        "what's the phone number for the local hair salon",
+        "email_querycontact"
+    ],
+    [
+        "can you provide the phone number for the nearby pet store",
+        "email_querycontact"
+    ],
+    [
+        "what is the address and phone number for the bank",
+        "email_querycontact"
+    ],
+    [
+        "does john have a phone",
+        "email_querycontact"
+    ],
+    [
+        "can i borrow john's phone",
+        "email_querycontact"
+    ],
+    [
+        "is john's phone working",
+        "email_querycontact"
+    ],
+    [
+        "what's the address and phone number for the local post office",
+        "email_querycontact"
+    ],
+    [
+        "is there a website to create new digital invitations",
+        "lists_createoradd"
+    ],
+    [
+        "can i add contacts to my email without an email address",
+        "email_addcontact"
+    ],
+    [
+        "please advise on email encryption.",
+        "email_addcontact"
+    ],
+    [
+        "how do i add a new bookmark to my browser",
+        "email_addcontact"
+    ],
+    [
+        "can you please provide instructions for creating a new account",
+        "email_addcontact"
+    ],
+    [
+        "can you please help me set up a new profile",
+        "email_addcontact"
+    ],
+    [
+        "what are the two main features of a smartphone",
+        "qa_maths"
+    ],
+    [
+        "is there a difference between the terms two-way and one-way",
+        "qa_maths"
+    ],
+    [
+        "are there two or one bedrooms in the apartment",
+        "qa_maths"
+    ],
+    [
+        "is it possible to use two different streaming services simultaneously",
+        "qa_maths"
+    ],
+    [
+        "are there two different plans available for the gym membership",
+        "qa_maths"
+    ],
+    [
+        "are there two hundred seats available for the concert",
+        "qa_maths"
+    ],
+    [
+        "is there a two-hundred-page limit for this research paper",
+        "qa_maths"
+    ],
+    [
+        "are there two to four bathrooms in the house",
+        "qa_maths"
+    ],
+    [
+        "do you have two to four siblings",
+        "qa_maths"
+    ],
+    [
+        "do you have two to four years of work experience",
+        "qa_maths"
+    ],
+    [
+        "is it possible to find one hundred different flavors of ice cream",
+        "qa_maths"
+    ],
+    [
+        "is it possible to find one hundred different types of flowers in this garden",
+        "qa_maths"
+    ],
+    [
+        "do you have one to four siblings",
+        "qa_maths"
+    ],
+    [
+        "is there a plus one hundred bonus for signing up",
+        "qa_maths"
+    ],
+    [
+        "is there a plus one hundred channels available in the cable package",
+        "qa_maths"
+    ],
+    [
+        "is there a plus one hundred dollar reward for completing the survey",
+        "qa_maths"
+    ],
+    [
+        "are there any plus four accessories included with the purchase",
+        "qa_maths"
+    ],
+    [
+        "are there any plus four bonus features included in the new smartphone",
+        "qa_maths"
+    ],
+    [
+        "are there one hundred and four participants in this event",
+        "qa_maths"
+    ],
+    [
+        "is thinking critically important for making the right decisions",
+        "general_negate"
+    ],
+    [
+        "is it important to think before making a choice",
+        "general_negate"
+    ],
+    [
+        "do you believe that thinking positively leads to making the right decisions",
+        "general_negate"
+    ],
+    [
+        "is it necessary to think critically to ensure you are doing the right thing",
+        "general_negate"
+    ],
+    [
+        "is it important to think before apologizing",
+        "general_negate"
+    ],
+    [
+        "should you think carefully to ensure you are correct",
+        "general_negate"
+    ],
+    [
+        "is thinking critically essential for finding the correct solution",
+        "general_negate"
+    ],
+    [
+        "how can you improve your command execution",
+        "general_negate"
+    ],
+    [
+        "is it important to think before giving a command",
+        "general_negate"
+    ],
+    [
+        "is it possible to be right without being correct",
+        "general_negate"
+    ],
+    [
+        "is it necessary to be both right and correct",
+        "general_negate"
+    ],
+    [
+        "can being right always mean being correct",
+        "general_negate"
+    ],
+    [
+        "can you determine the correct answer without being right",
+        "general_negate"
+    ],
+    [
+        "how can one ensure their commands are right",
+        "general_negate"
+    ],
+    [
+        "how can you ensure your commands are correct",
+        "general_negate"
+    ],
+    [
+        "is executing the correct command crucial for success",
+        "general_negate"
+    ],
+    [
+        "what are olly's real intentions",
+        "general_dontcare"
+    ],
+    [
+        "is olly really trustworthy",
+        "general_dontcare"
+    ],
+    [
+        "does olly really exist",
+        "general_dontcare"
+    ],
+    [
+        "does olly mind being alone",
+        "general_dontcare"
+    ],
+    [
+        "can olly read minds",
+        "general_dontcare"
+    ],
+    [
+        "does olly have a mindful personality",
+        "general_dontcare"
+    ],
+    [
+        "does olly understand the human mind",
+        "general_dontcare"
+    ],
+    [
+        "does olly have a favorite book",
+        "general_dontcare"
+    ],
+    [
+        "is olly the chosen one",
+        "general_dontcare"
+    ],
+    [
+        "can olly be the number one in his field",
+        "general_dontcare"
+    ],
+    [
+        "is olly the chosen one for the mission",
+        "general_dontcare"
+    ],
+    [
+        "does olly's opinion matter",
+        "general_dontcare"
+    ],
+    [
+        "can olly make a difference",
+        "general_dontcare"
+    ],
+    [
+        "does olly's presence really matter",
+        "general_dontcare"
+    ],
+    [
+        "can olly's actions make a difference",
+        "general_dontcare"
+    ],
+    [
+        "do you really mind the cold weather",
+        "general_dontcare"
+    ],
+    [
+        "do you really mind spicy food",
+        "general_dontcare"
+    ],
+    [
+        "do you really mind public speaking",
+        "general_dontcare"
+    ],
+    [
+        "are you really the chosen one",
+        "general_dontcare"
+    ],
+    [
+        "is there really only one way to do it",
+        "general_dontcare"
+    ],
+    [
+        "is there really only one path to success",
+        "general_dontcare"
+    ],
+    [
+        "is it really a matter of life and death",
+        "general_dontcare"
+    ],
+    [
+        "does it really matter in the grand scheme of things",
+        "general_dontcare"
+    ],
+    [
+        "does it really matter what others think",
+        "general_dontcare"
+    ],
+    [
+        "does one's state of mind determine success",
+        "general_dontcare"
+    ],
+    [
+        "can one's state of mind affect their happiness",
+        "general_dontcare"
+    ],
+    [
+        "is one's mindset the key to success",
+        "general_dontcare"
+    ],
+    [
+        "does the mind truly matter in life",
+        "general_dontcare"
+    ],
+    [
+        "does the mind shape what matters most",
+        "general_dontcare"
+    ],
+    [
+        "does the mind truly comprehend the mysteries of matter",
+        "general_dontcare"
+    ],
+    [
+        "does one's perspective truly matter",
+        "general_dontcare"
+    ],
+    [
+        "does every individual's experience really matter",
+        "general_dontcare"
+    ],
+    [
+        "is every person's voice important",
+        "general_dontcare"
+    ],
+    [
+        "does each individual's contribution matter",
+        "general_dontcare"
+    ],
+    [
+        "could you please pass me one",
+        "general_repeat"
+    ],
+    [
+        "did he please said that",
+        "general_repeat"
+    ],
+    [
+        "what did he please said",
+        "general_repeat"
+    ],
+    [
+        "please tell me more.",
+        "general_repeat"
+    ],
+    [
+        "tell me, please",
+        "general_repeat"
+    ],
+    [
+        "can you spare some time, please",
+        "general_repeat"
+    ],
+    [
+        "what did one said",
+        "general_repeat"
+    ],
+    [
+        "who said that, one",
+        "general_repeat"
+    ],
+    [
+        "what did one tell",
+        "general_repeat"
+    ],
+    [
+        "can you tell me, one",
+        "general_repeat"
+    ],
+    [
+        "tell me, one.",
+        "general_repeat"
+    ],
+    [
+        "what did they tell said",
+        "general_repeat"
+    ],
+    [
+        "what time did they said",
+        "general_repeat"
+    ],
+    [
+        "when did they said that",
+        "general_repeat"
+    ],
+    [
+        "when was it said",
+        "general_repeat"
+    ],
+    [
+        "is there a specific command that responds when i say yeah as a keyword",
+        "general_affirm"
+    ],
+    [
+        "is there a preferred command that responds when someone says yeah during execution",
+        "general_affirm"
+    ],
+    [
+        "what kind of command can be executed with the word yeap",
+        "general_affirm"
+    ],
+    [
+        "is yeap a valid keyword for executing a command",
+        "general_affirm"
+    ],
+    [
+        "can you provide an example of a command that utilizes the word yeap",
+        "general_affirm"
+    ],
+    [
+        "is yeah or yes the preferred response for the command",
+        "general_affirm"
+    ],
+    [
+        "is there a difference between using yeah or yeap in a command",
+        "general_affirm"
+    ],
+    [
+        "can a command be executed with either yeah or yeap as the trigger",
+        "general_affirm"
+    ],
+    [
+        "is it acceptable to use both yeah and yeap as command keywords interchangeably",
+        "general_affirm"
+    ],
+    [
+        "what does the command response look like when triggered by yeah",
+        "general_affirm"
+    ],
+    [
+        "how does the command respond when yeah is used as an input",
+        "general_affirm"
+    ],
+    [
+        "what is the typical response of a command to the input yeah",
+        "general_affirm"
+    ],
+    [
+        "is there a difference between using yes or yeap in a command",
+        "general_affirm"
+    ],
+    [
+        "can a command be executed with either yes or yeap as the trigger",
+        "general_affirm"
+    ],
+    [
+        "does the command accept both yes and yeap as valid inputs",
+        "general_affirm"
+    ],
+    [
+        "what does the response of a command look like when yes is the input",
+        "general_affirm"
+    ],
+    [
+        "how does the command respond when yeap is used as an input",
+        "general_affirm"
+    ],
+    [
+        "how does the command typically respond when yeap is used as an input",
+        "general_affirm"
+    ],
+    [
+        "what is the response of the command when the user inputs yeap",
+        "general_affirm"
+    ],
+    [
+        "olly, can you please assist me",
+        "general_commandstop"
+    ],
+    [
+        "please confirm my payment.",
+        "general_confirm"
+    ],
+    [
+        "can you please check the last update",
+        "general_confirm"
+    ],
+    [
+        "please provide the last status update.",
+        "general_confirm"
+    ],
+    [
+        "please check the last update.",
+        "general_confirm"
+    ],
+    [
+        "can you check the last update",
+        "general_confirm"
+    ],
+    [
+        "can you confirm the last update",
+        "general_confirm"
+    ],
+    [
+        "can you confirm what they said",
+        "general_confirm"
+    ],
+    [
+        "what did they say last",
+        "general_confirm"
+    ],
+    [
+        "please, what did they say about the project",
+        "general_explain"
+    ],
+    [
+        "please provide an answer about the status of the project.",
+        "general_explain"
+    ],
+    [
+        "please clarify the payment process.",
+        "general_explain"
+    ],
+    [
+        "can you answer and clarify the expectations for the team",
+        "general_explain"
+    ],
+    [
+        "can olly help us with the project, and should we thank him for his assistance",
+        "general_praise"
+    ],
+    [
+        "is olly the person we should thank for resolving the issue",
+        "general_praise"
+    ],
+    [
+        "has olly received the recognition he deserves for his contributions",
+        "general_praise"
+    ],
+    [
+        "how much time does olly spend on his hobbies",
+        "general_praise"
+    ],
+    [
+        "does olly enjoy spending much time outdoors",
+        "general_praise"
+    ],
+    [
+        "did olly spend much money on his recent vacation",
+        "general_praise"
+    ],
+    [
+        "has olly done his part in completing the project",
+        "general_praise"
+    ],
+    [
+        "is olly done with his presentation preparations",
+        "general_praise"
+    ],
+    [
+        "has olly done his share of the household chores",
+        "general_praise"
+    ],
+    [
+        "is olly done with his exams for this semester",
+        "general_praise"
+    ],
+    [
+        "do you thank others much for their support",
+        "general_praise"
+    ],
+    [
+        "do you feel unappreciated despite your efforts",
+        "general_praise"
+    ],
+    [
+        "is it important to thank and show appreciation to others",
+        "general_praise"
+    ],
+    [
+        "how much work have you done so far",
+        "general_praise"
+    ],
+    [
+        "how much progress have you made on the project",
+        "general_praise"
+    ],
+    [
+        "how much of the work has been completed",
+        "general_praise"
+    ],
+    [
+        "is there much left to be done on the project",
+        "general_praise"
+    ]
+]

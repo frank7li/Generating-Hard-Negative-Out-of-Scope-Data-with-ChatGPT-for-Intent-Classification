@@ -1,0 +1,551 @@
+{
+    "card_arrival": [
+        "card",
+        "new",
+        "track",
+        "sent",
+        "week"
+    ],
+    "card_linking": [
+        "card",
+        "app",
+        "link",
+        "new",
+        "found"
+    ],
+    "exchange_rate": [
+        "exchange",
+        "rate",
+        "know",
+        "get",
+        "foreign"
+    ],
+    "card_payment_wrong_exchange_rate": [
+        "rate",
+        "exchange",
+        "wrong",
+        "bought",
+        "item"
+    ],
+    "extra_charge_on_statement": [
+        "statement",
+        "extra",
+        "charge",
+        "fee",
+        "charged"
+    ],
+    "pending_cash_withdrawal": [
+        "cash",
+        "pending",
+        "withdrawal",
+        "atm",
+        "still"
+    ],
+    "fiat_currency_support": [
+        "currency",
+        "exchange",
+        "fiat",
+        "holding",
+        "hold"
+    ],
+    "card_delivery_estimate": [
+        "card",
+        "long",
+        "delivered",
+        "delivery",
+        "take"
+    ],
+    "automatic_top_up": [
+        "auto",
+        "topup",
+        "top",
+        "automatically",
+        "money"
+    ],
+    "card_not_working": [
+        "card",
+        "working",
+        "work",
+        "use",
+        "cant"
+    ],
+    "exchange_via_app": [
+        "currency",
+        "exchange",
+        "app",
+        "gbp",
+        "usd"
+    ],
+    "lost_or_stolen_card": [
+        "card",
+        "stolen",
+        "lost",
+        "help",
+        "need"
+    ],
+    "age_limit": [
+        "account",
+        "open",
+        "age",
+        "child",
+        "daughter"
+    ],
+    "pin_blocked": [
+        "pin",
+        "unblock",
+        "wrong",
+        "blocked",
+        "many"
+    ],
+    "contactless_not_working": [
+        "contactless",
+        "working",
+        "work",
+        "payment",
+        "card"
+    ],
+    "top_up_by_bank_transfer_charge": [
+        "transfer",
+        "fee",
+        "charge",
+        "money",
+        "swift"
+    ],
+    "pending_top_up": [
+        "top",
+        "topup",
+        "pending",
+        "still",
+        "long"
+    ],
+    "cancel_transfer": [
+        "transaction",
+        "cancel",
+        "transfer",
+        "made",
+        "account"
+    ],
+    "top_up_limits": [
+        "limit",
+        "topup",
+        "top",
+        "topups",
+        "much"
+    ],
+    "wrong_amount_of_cash_received": [
+        "atm",
+        "amount",
+        "cash",
+        "money",
+        "get"
+    ],
+    "card_payment_fee_charged": [
+        "fee",
+        "card",
+        "charged",
+        "extra",
+        "payment"
+    ],
+    "transfer_not_received_by_recipient": [
+        "money",
+        "transfer",
+        "transaction",
+        "yet",
+        "hasnt"
+    ],
+    "supported_cards_and_currencies": [
+        "card",
+        "currency",
+        "money",
+        "use",
+        "account"
+    ],
+    "getting_virtual_card": [
+        "card",
+        "virtual",
+        "get",
+        "yet",
+        "order"
+    ],
+    "card_acceptance": [
+        "card",
+        "use",
+        "accept",
+        "business",
+        "accepted"
+    ],
+    "top_up_reverted": [
+        "top",
+        "topup",
+        "money",
+        "reverted",
+        "cancelled"
+    ],
+    "balance_not_updated_after_cheque_or_cash_deposit": [
+        "account",
+        "cash",
+        "deposit",
+        "deposited",
+        "cheque"
+    ],
+    "card_payment_not_recognised": [
+        "payment",
+        "card",
+        "app",
+        "dont",
+        "didnt"
+    ],
+    "edit_personal_details": [
+        "change",
+        "detail",
+        "need",
+        "address",
+        "personal"
+    ],
+    "why_verify_identity": [
+        "identity",
+        "need",
+        "verification",
+        "account",
+        "use"
+    ],
+    "unable_to_verify_identity": [
+        "identity",
+        "verify",
+        "app",
+        "prove",
+        "verification"
+    ],
+    "get_physical_card": [
+        "pin",
+        "card",
+        "get",
+        "find",
+        "yet"
+    ],
+    "visa_or_mastercard": [
+        "visa",
+        "mastercard",
+        "get",
+        "card",
+        "choose"
+    ],
+    "topping_up_by_card": [
+        "top",
+        "card",
+        "money",
+        "account",
+        "credit"
+    ],
+    "disposable_card_limits": [
+        "card",
+        "disposable",
+        "limit",
+        "many",
+        "virtual"
+    ],
+    "compromised_card": [
+        "card",
+        "someone",
+        "think",
+        "transaction",
+        "using"
+    ],
+    " I think someone managed to get my card details and use it.": [
+        "transaction",
+        "dont",
+        "recognize"
+    ],
+    "atm_support": [
+        "atm",
+        "card",
+        "use",
+        "money",
+        "withdraw"
+    ],
+    "direct_debit_payment_not_recognised": [
+        "debit",
+        "direct",
+        "payment",
+        "account",
+        "didnt"
+    ],
+    "passcode_forgotten": [
+        "passcode",
+        "password",
+        "reset",
+        "app",
+        "cant"
+    ],
+    "declined_cash_withdrawal": [
+        "atm",
+        "cash",
+        "money",
+        "get",
+        "card"
+    ],
+    "pending_card_payment": [
+        "payment",
+        "pending",
+        "card",
+        "still",
+        "long"
+    ],
+    "lost_or_stolen_phone": [
+        "phone",
+        "stolen",
+        "lost",
+        "app",
+        "use"
+    ],
+    "request_refund": [
+        "refund",
+        "item",
+        "get",
+        "want",
+        "bought"
+    ],
+    "declined_transfer": [
+        "transfer",
+        "declined",
+        "tried",
+        "keep",
+        "getting"
+    ],
+    "Refund_not_showing_up": [
+        "refund",
+        "statement",
+        "account",
+        "see",
+        "money"
+    ],
+    "declined_card_payment": [
+        "card",
+        "payment",
+        "declined",
+        "work",
+        "tried"
+    ],
+    "pending_transfer": [
+        "transfer",
+        "pending",
+        "long",
+        "still",
+        "money"
+    ],
+    "terminate_account": [
+        "account",
+        "delete",
+        "service",
+        "close",
+        "want"
+    ],
+    "card_swallowed": [
+        "card",
+        "atm",
+        "get",
+        "back",
+        "machine"
+    ],
+    "transaction_charged_twice": [
+        "charged",
+        "twice",
+        "transaction",
+        "charge",
+        "payment"
+    ],
+    "verify_source_of_funds": [
+        "fund",
+        "source",
+        "money",
+        "come",
+        "see"
+    ],
+    "transfer_timing": [
+        "transfer",
+        "long",
+        "take",
+        "account",
+        "china"
+    ],
+    "reverted_card_payment?": [
+        "payment",
+        "card",
+        "reverted",
+        "account",
+        "cancelled"
+    ],
+    "change_pin": [
+        "pin",
+        "change",
+        "need",
+        "atm",
+        "bank"
+    ],
+    "beneficiary_not_allowed": [
+        "transfer",
+        "beneficiary",
+        "account",
+        "money",
+        "allowed"
+    ],
+    "transfer_fee_charged": [
+        "transfer",
+        "fee",
+        "charged",
+        "money",
+        "extra"
+    ],
+    "receiving_money": [
+        "salary",
+        "money",
+        "currency",
+        "friend",
+        "gbp"
+    ],
+    "failed_transfer": [
+        "transfer",
+        "tried",
+        "failed",
+        "money",
+        "keep"
+    ],
+    "transfer_into_account": [
+        "account",
+        "transfer",
+        "money",
+        "bank",
+        "another"
+    ],
+    " but I want to transfer some of the money to my account here.": [
+        "account",
+        "another",
+        "bank"
+    ],
+    "verify_top_up": [
+        "topup",
+        "verify",
+        "card",
+        "verification",
+        "code"
+    ],
+    "getting_spare_card": [
+        "card",
+        "get",
+        "another",
+        "second",
+        "account"
+    ],
+    "top_up_by_cash_or_cheque": [
+        "top",
+        "cheque",
+        "cash",
+        "account",
+        "check"
+    ],
+    "order_physical_card": [
+        "card",
+        "physical",
+        "get",
+        "order",
+        "delivered"
+    ],
+    "virtual_card_not_working": [
+        "card",
+        "virtual",
+        "work",
+        "disposable",
+        "get"
+    ],
+    "wrong_exchange_rate_for_cash_withdrawal": [
+        "rate",
+        "exchange",
+        "cash",
+        "wrong",
+        "atm"
+    ],
+    "get_disposable_virtual_card": [
+        "card",
+        "disposable",
+        "virtual",
+        "get",
+        "use"
+    ],
+    "top_up_failed": [
+        "topup",
+        "top",
+        "card",
+        "declined",
+        "work"
+    ],
+    "balance_not_updated_after_bank_transfer": [
+        "transfer",
+        "account",
+        "balance",
+        "money",
+        "made"
+    ],
+    "cash_withdrawal_not_recognised": [
+        "cash",
+        "withdrawal",
+        "app",
+        "account",
+        "card"
+    ],
+    "exchange_charge": [
+        "currency",
+        "exchange",
+        "fee",
+        "exchanging",
+        "foreign"
+    ],
+    "top_up_by_card_charge": [
+        "card",
+        "top",
+        "fee",
+        "charge",
+        "money"
+    ],
+    "activate_my_card": [
+        "card",
+        "activate",
+        "new",
+        "need",
+        "activating"
+    ],
+    "cash_withdrawal_charge": [
+        "fee",
+        "cash",
+        "charged",
+        "withdrawal",
+        "atm"
+    ],
+    "card_about_to_expire": [
+        "card",
+        "new",
+        "expire",
+        "expires",
+        "get"
+    ],
+    "apple_pay_or_google_pay": [
+        "pay",
+        "top",
+        "apple",
+        "google",
+        "watch"
+    ],
+    "verify_my_identity": [
+        "identity",
+        "verify",
+        "need",
+        "check",
+        "verification"
+    ],
+    "country_support": [
+        "card",
+        "country",
+        "get",
+        "live",
+        "support"
+    ]
+}

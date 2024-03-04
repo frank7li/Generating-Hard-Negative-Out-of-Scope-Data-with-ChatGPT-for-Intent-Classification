@@ -1,0 +1,1052 @@
+{
+    "translate": [
+        "say",
+        "french",
+        "hello",
+        "would",
+        "spanish"
+    ],
+    "transfer": [
+        "account",
+        "transfer",
+        "dollar",
+        "saving",
+        "checking"
+    ],
+    "timer": [
+        "timer",
+        "set",
+        "minute",
+        "please",
+        "need"
+    ],
+    "definition": [
+        "mean",
+        "definition",
+        "meaning",
+        "word",
+        "doe"
+    ],
+    "meaning_of_life": [
+        "life",
+        "meaning",
+        "whats",
+        "tell",
+        "purpose"
+    ],
+    "insurance_change": [
+        "insurance",
+        "new",
+        "plan",
+        "need",
+        "policy"
+    ],
+    "find_phone": [
+        "phone",
+        "find",
+        "help",
+        "please",
+        "locate"
+    ],
+    "travel_alert": [
+        "travel",
+        "alert",
+        "safe",
+        "doe",
+        "aware"
+    ],
+    "pto_request": [
+        "request",
+        "pto",
+        "march",
+        "vacation",
+        "put"
+    ],
+    "improve_credit_score": [
+        "credit",
+        "score",
+        "way",
+        "improve",
+        "hurt"
+    ],
+    "fun_fact": [
+        "fact",
+        "fun",
+        "tell",
+        "trivia",
+        "interesting"
+    ],
+    "change_language": [
+        "language",
+        "change",
+        "french",
+        "spanish",
+        "english"
+    ],
+    "payday": [
+        "paycheck",
+        "next",
+        "paid",
+        "last",
+        "get"
+    ],
+    "replacement_card_duration": [
+        "card",
+        "new",
+        "long",
+        "get",
+        "take"
+    ],
+    "time": [
+        "time",
+        "current",
+        "timezone",
+        "right",
+        "whats"
+    ],
+    "application_status": [
+        "card",
+        "application",
+        "credit",
+        "status",
+        "processed"
+    ],
+    "flight_status": [
+        "flight",
+        "time",
+        "status",
+        "dl123",
+        "tell"
+    ],
+    "flip_coin": [
+        "coin",
+        "flip",
+        "tail",
+        "head",
+        "please"
+    ],
+    "change_user_name": [
+        "call",
+        "name",
+        "please",
+        "change",
+        "want"
+    ],
+    "where_are_you_from": [
+        "born",
+        "place",
+        "origin",
+        "tell",
+        "made"
+    ],
+    "shopping_list_update": [
+        "list",
+        "shopping",
+        "add",
+        "put",
+        "please"
+    ],
+    "what_can_i_ask_you": [
+        "ask",
+        "thing",
+        "subject",
+        "question",
+        "know"
+    ],
+    "maybe": [
+        "either",
+        "know",
+        "dont",
+        "answer",
+        "could"
+    ],
+    "oil_change_how": [
+        "oil",
+        "change",
+        "car",
+        "need",
+        "instruction"
+    ],
+    "restaurant_reservation": [
+        "reservation",
+        "table",
+        "make",
+        "red",
+        "name"
+    ],
+    "balance": [
+        "account",
+        "balance",
+        "bank",
+        "money",
+        "much"
+    ],
+    "confirm_reservation": [
+        "reservation",
+        "confirm",
+        "like",
+        "please",
+        "red"
+    ],
+    "freeze_account": [
+        "account",
+        "bank",
+        "put",
+        "please",
+        "stop"
+    ],
+    "rollover_401k": [
+        "401k",
+        "rollover",
+        "need",
+        "job",
+        "new"
+    ],
+    "who_made_you": [
+        "made",
+        "company",
+        "know",
+        "tell",
+        "programmed"
+    ],
+    "distance": [
+        "take",
+        "long",
+        "get",
+        "bus",
+        "time"
+    ],
+    "user_name": [
+        "name",
+        "call",
+        "saved",
+        "know",
+        "refer"
+    ],
+    "timezone": [
+        "timezone",
+        "time",
+        "zone",
+        "tell",
+        "whats"
+    ],
+    "next_song": [
+        "next",
+        "song",
+        "play",
+        "playlist",
+        "skip"
+    ],
+    "transactions": [
+        "transaction",
+        "last",
+        "show",
+        "recent",
+        "card"
+    ],
+    "restaurant_suggestion": [
+        "restaurant",
+        "good",
+        "place",
+        "eat",
+        "sushi"
+    ],
+    "rewards_balance": [
+        "reward",
+        "card",
+        "point",
+        "many",
+        "balance"
+    ],
+    "pay_bill": [
+        "bill",
+        "pay",
+        "help",
+        "need",
+        "account"
+    ],
+    "spending_history": [
+        "much",
+        "spent",
+        "spend",
+        "last",
+        "week"
+    ],
+    "pto_request_status": [
+        "vacation",
+        "request",
+        "approved",
+        "day",
+        "status"
+    ],
+    "credit_score": [
+        "credit",
+        "score",
+        "rating",
+        "find",
+        "tell"
+    ],
+    "new_card": [
+        "card",
+        "apply",
+        "new",
+        "credit",
+        "visa"
+    ],
+    "lost_luggage": [
+        "luggage",
+        "lost",
+        "flight",
+        "ab123",
+        "find"
+    ],
+    "repeat": [
+        "repeat",
+        "please",
+        "say",
+        "said",
+        "didnt"
+    ],
+    "mpg": [
+        "car",
+        "mpg",
+        "get",
+        "doe",
+        "gas"
+    ],
+    "oil_change_when": [
+        "oil",
+        "change",
+        "need",
+        "changed",
+        "next"
+    ],
+    "yes": [
+        "yes",
+        "true",
+        "thats",
+        "correct",
+        "right"
+    ],
+    "travel_suggestion": [
+        "thing",
+        "fun",
+        "tourist",
+        "travel",
+        "whats"
+    ],
+    "insurance": [
+        "benefit",
+        "insurance",
+        "health",
+        "plan",
+        "tell"
+    ],
+    "todo_list_update": [
+        "list",
+        "add",
+        "please",
+        "todo",
+        "put"
+    ],
+    "reminder": [
+        "reminder",
+        "list",
+        "tell",
+        "remember",
+        "please"
+    ],
+    "change_speed": [
+        "please",
+        "speak",
+        "slow",
+        "speed",
+        "speech"
+    ],
+    "tire_pressure": [
+        "tire",
+        "pressure",
+        "air",
+        "car",
+        "low"
+    ],
+    "no": [
+        "false",
+        "thats",
+        "wrong",
+        "right",
+        "say"
+    ],
+    "apr": [
+        "apr",
+        "card",
+        "credit",
+        "visa",
+        "tell"
+    ],
+    "nutrition_info": [
+        "nutritional",
+        "nutrition",
+        "info",
+        "whats",
+        "healthy"
+    ],
+    "calendar": [
+        "calendar",
+        "march",
+        "tell",
+        "1st",
+        "event"
+    ],
+    "uber": [
+        "uber",
+        "get",
+        "need",
+        "people",
+        "please"
+    ],
+    "calculator": [
+        "time",
+        "square",
+        "root",
+        "divided",
+        "math"
+    ],
+    "date": [
+        "date",
+        "day",
+        "today",
+        "tomorrow",
+        "tell"
+    ],
+    "carry_on": [
+        "carry",
+        "carryon",
+        "flight",
+        "ons",
+        "airline"
+    ],
+    "pto_used": [
+        "day",
+        "many",
+        "used",
+        "taken",
+        "vacation"
+    ],
+    "schedule_maintenance": [
+        "schedule",
+        "check",
+        "need",
+        "car",
+        "get"
+    ],
+    "travel_notification": [
+        "bank",
+        "know",
+        "let",
+        "traveling",
+        "tell"
+    ],
+    "sync_device": [
+        "phone",
+        "please",
+        "disconnect",
+        "connect",
+        "unsync"
+    ],
+    "thank_you": [
+        "thanks",
+        "thank",
+        "appreciate",
+        "answer",
+        "help"
+    ],
+    "roll_dice": [
+        "roll",
+        "dice",
+        "sided",
+        "die",
+        "please"
+    ],
+    "food_last": [
+        "fridge",
+        "long",
+        "since",
+        "eat",
+        "freezer"
+    ],
+    "cook_time": [
+        "long",
+        "cook",
+        "take",
+        "time",
+        "doe"
+    ],
+    "reminder_update": [
+        "reminder",
+        "set",
+        "remind",
+        "please",
+        "make"
+    ],
+    "report_lost_card": [
+        "card",
+        "report",
+        "lost",
+        "stolen",
+        "need"
+    ],
+    "ingredient_substitution": [
+        "use",
+        "substitute",
+        "milk",
+        "instead",
+        "sugar"
+    ],
+    "make_call": [
+        "call",
+        "phone",
+        "dial",
+        "please",
+        "number"
+    ],
+    "alarm": [
+        "alarm",
+        "set",
+        "need",
+        "tomorrow",
+        "please"
+    ],
+    "todo_list": [
+        "list",
+        "todo",
+        "please",
+        "tell",
+        "task"
+    ],
+    "change_accent": [
+        "male",
+        "voice",
+        "accent",
+        "british",
+        "change"
+    ],
+    "w2": [
+        "get",
+        "form",
+        "tax",
+        "need",
+        "find"
+    ],
+    "bill_due": [
+        "bill",
+        "due",
+        "pay",
+        "date",
+        "payment"
+    ],
+    "calories": [
+        "calorie",
+        "many",
+        "whats",
+        "tell",
+        "content"
+    ],
+    "damaged_card": [
+        "card",
+        "report",
+        "damaged",
+        "need",
+        "credit"
+    ],
+    "restaurant_reviews": [
+        "review",
+        "good",
+        "rating",
+        "doe",
+        "like"
+    ],
+    "routing": [
+        "routing",
+        "number",
+        "account",
+        "bank",
+        "find"
+    ],
+    "do_you_have_pets": [
+        "pet",
+        "cat",
+        "dog",
+        "kind",
+        "know"
+    ],
+    "schedule_meeting": [
+        "meeting",
+        "schedule",
+        "room",
+        "available",
+        "need"
+    ],
+    "gas_type": [
+        "car",
+        "gas",
+        "need",
+        "doe",
+        "kind"
+    ],
+    "plug_type": [
+        "plug",
+        "converter",
+        "need",
+        "socket",
+        "use"
+    ],
+    "tire_change": [
+        "tire",
+        "need",
+        "replaced",
+        "changed",
+        "replace"
+    ],
+    "exchange_rate": [
+        "dollar",
+        "exchange",
+        "yen",
+        "rate",
+        "many"
+    ],
+    "next_holiday": [
+        "next",
+        "day",
+        "holiday",
+        "know",
+        "tell"
+    ],
+    "change_volume": [
+        "volume",
+        "please",
+        "increase",
+        "turn",
+        "speaker"
+    ],
+    "who_do_you_work_for": [
+        "work",
+        "bos",
+        "working",
+        "else",
+        "say"
+    ],
+    "credit_limit": [
+        "limit",
+        "credit",
+        "card",
+        "visa",
+        "whats"
+    ],
+    "how_busy": [
+        "busy",
+        "wait",
+        "long",
+        "around",
+        "time"
+    ],
+    "accept_reservations": [
+        "reservation",
+        "take",
+        "doe",
+        "make",
+        "know"
+    ],
+    "order_status": [
+        "order",
+        "package",
+        "status",
+        "check",
+        "online"
+    ],
+    "pin_change": [
+        "pin",
+        "account",
+        "number",
+        "change",
+        "1234"
+    ],
+    "goodbye": [
+        "later",
+        "see",
+        "talk",
+        "nice",
+        "goodbye"
+    ],
+    "account_blocked": [
+        "account",
+        "bank",
+        "hold",
+        "frozen",
+        "reason"
+    ],
+    "what_song": [
+        "song",
+        "whats",
+        "name",
+        "playing",
+        "tell"
+    ],
+    "international_fees": [
+        "card",
+        "fee",
+        "transaction",
+        "use",
+        "international"
+    ],
+    "last_maintenance": [
+        "last",
+        "car",
+        "shop",
+        "oil",
+        "date"
+    ],
+    "meeting_schedule": [
+        "meeting",
+        "today",
+        "scheduled",
+        "schedule",
+        "tell"
+    ],
+    "ingredients_list": [
+        "ingredient",
+        "need",
+        "make",
+        "chicken",
+        "pizza"
+    ],
+    "report_fraud": [
+        "fraudulent",
+        "card",
+        "report",
+        "account",
+        "activity"
+    ],
+    "measurement_conversion": [
+        "many",
+        "inch",
+        "convert",
+        "centimeter",
+        "cup"
+    ],
+    "smart_home": [
+        "turn",
+        "please",
+        "door",
+        "light",
+        "set"
+    ],
+    "book_hotel": [
+        "hotel",
+        "room",
+        "book",
+        "near",
+        "people"
+    ],
+    "current_location": [
+        "location",
+        "current",
+        "map",
+        "find",
+        "tell"
+    ],
+    "weather": [
+        "weather",
+        "like",
+        "whats",
+        "today",
+        "forecast"
+    ],
+    "taxes": [
+        "tax",
+        "much",
+        "pay",
+        "state",
+        "federal"
+    ],
+    "min_payment": [
+        "minimum",
+        "bill",
+        "payment",
+        "pay",
+        "tell"
+    ],
+    "whisper_mode": [
+        "whisper",
+        "mode",
+        "please",
+        "voice",
+        "switch"
+    ],
+    "cancel": [
+        "please",
+        "stop",
+        "cancel",
+        "talking",
+        "current"
+    ],
+    "international_visa": [
+        "visa",
+        "need",
+        "travel",
+        "international",
+        "visit"
+    ],
+    "vaccines": [
+        "shot",
+        "need",
+        "get",
+        "travel",
+        "vaccination"
+    ],
+    "pto_balance": [
+        "day",
+        "vacation",
+        "many",
+        "left",
+        "pto"
+    ],
+    "directions": [
+        "get",
+        "bus",
+        "nearest",
+        "closest",
+        "starbucks"
+    ],
+    "spelling": [
+        "spell",
+        "know",
+        "many",
+        "spelling",
+        "word"
+    ],
+    "greeting": [
+        "going",
+        "hello",
+        "hows",
+        "hey",
+        "whats"
+    ],
+    "reset_settings": [
+        "setting",
+        "factory",
+        "back",
+        "please",
+        "reset"
+    ],
+    "what_is_your_name": [
+        "name",
+        "call",
+        "like",
+        "use",
+        "tell"
+    ],
+    "direct_deposit": [
+        "direct",
+        "deposit",
+        "set",
+        "paycheck",
+        "account"
+    ],
+    "interest_rate": [
+        "interest",
+        "rate",
+        "account",
+        "know",
+        "tell"
+    ],
+    "credit_limit_change": [
+        "limit",
+        "credit",
+        "increase",
+        "card",
+        "visa"
+    ],
+    "what_are_your_hobbies": [
+        "hobby",
+        "time",
+        "like",
+        "enjoy",
+        "thing"
+    ],
+    "book_flight": [
+        "flight",
+        "march",
+        "book",
+        "returning",
+        "dallas"
+    ],
+    "shopping_list": [
+        "list",
+        "shopping",
+        "tell",
+        "need",
+        "whats"
+    ],
+    "text": [
+        "text",
+        "send",
+        "tell",
+        "message",
+        "mom"
+    ],
+    "bill_balance": [
+        "bill",
+        "much",
+        "owe",
+        "water",
+        "month"
+    ],
+    "share_location": [
+        "location",
+        "share",
+        "gps",
+        "coordinate",
+        "let"
+    ],
+    "redeem_rewards": [
+        "card",
+        "point",
+        "credit",
+        "redeem",
+        "reward"
+    ],
+    "play_music": [
+        "play",
+        "music",
+        "playlist",
+        "song",
+        "hear"
+    ],
+    "calendar_update": [
+        "calendar",
+        "add",
+        "march",
+        "remove",
+        "event"
+    ],
+    "are_you_a_bot": [
+        "person",
+        "real",
+        "human",
+        "bot",
+        "computer"
+    ],
+    "gas": [
+        "gas",
+        "much",
+        "tank",
+        "get",
+        "fuel"
+    ],
+    "expiration_date": [
+        "card",
+        "date",
+        "credit",
+        "expire",
+        "expiration"
+    ],
+    "update_playlist": [
+        "playlist",
+        "add",
+        "song",
+        "please",
+        "put"
+    ],
+    "cancel_reservation": [
+        "reservation",
+        "cancel",
+        "dinner",
+        "please",
+        "need"
+    ],
+    "tell_joke": [
+        "joke",
+        "tell",
+        "funny",
+        "something",
+        "know"
+    ],
+    "change_ai_name": [
+        "name",
+        "change",
+        "call",
+        "want",
+        "please"
+    ],
+    "how_old_are_you": [
+        "old",
+        "age",
+        "born",
+        "know",
+        "tell"
+    ],
+    "car_rental": [
+        "car",
+        "rental",
+        "rent",
+        "march",
+        "need"
+    ],
+    "jump_start": [
+        "car",
+        "jump",
+        "start",
+        "battery",
+        "dead"
+    ],
+    "meal_suggestion": [
+        "meal",
+        "dinner",
+        "suggest",
+        "suggestion",
+        "give"
+    ],
+    "recipe": [
+        "recipe",
+        "make",
+        "find",
+        "pie",
+        "need"
+    ],
+    "income": [
+        "income",
+        "much",
+        "tell",
+        "salary",
+        "make"
+    ],
+    "order": [
+        "order",
+        "list",
+        "shopping",
+        "everything",
+        "need"
+    ],
+    "traffic": [
+        "traffic",
+        "way",
+        "like",
+        "route",
+        "know"
+    ],
+    "order_checks": [
+        "order",
+        "check",
+        "checkbook",
+        "account",
+        "get"
+    ],
+    "card_declined": [
+        "card",
+        "declined",
+        "yesterday",
+        "got",
+        "buy"
+    ]
+}

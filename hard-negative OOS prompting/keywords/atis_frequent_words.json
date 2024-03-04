@@ -1,0 +1,155 @@
+{
+    "flight": [
+        "flight",
+        "show",
+        "boston",
+        "san",
+        "denver"
+    ],
+    "flight_time": [
+        "flight",
+        "time",
+        "san",
+        "francisco",
+        "boston"
+    ],
+    "airfare": [
+        "fare",
+        "trip",
+        "round",
+        "flight",
+        "show"
+    ],
+    "aircraft": [
+        "aircraft",
+        "type",
+        "used",
+        "boston",
+        "flight"
+    ],
+    "ground_service": [
+        "ground",
+        "transportation",
+        "airport",
+        "available",
+        "downtown"
+    ],
+    "airport": [
+        "airport",
+        "name",
+        "denver",
+        "new",
+        "york"
+    ],
+    "airline": [
+        "airline",
+        "boston",
+        "fly",
+        "flight",
+        "denver"
+    ],
+    "distance": [
+        "airport",
+        "far",
+        "distance",
+        "downtown",
+        "long"
+    ],
+    "abbreviation": [
+        "code",
+        "doe",
+        "fare",
+        "mean",
+        "restriction"
+    ],
+    "ground_fare": [
+        "cost",
+        "limousine",
+        "car",
+        "rental",
+        "much"
+    ],
+    "quantity": [
+        "many",
+        "flight",
+        "class",
+        "doe",
+        "first"
+    ],
+    "city": [
+        "city",
+        "airline",
+        "international",
+        "served",
+        "show"
+    ],
+    "flight_no": [
+        "flight",
+        "number",
+        "minneapolis",
+        "san",
+        "francisco"
+    ],
+    "capacity": [
+        "many",
+        "capacity",
+        "seating",
+        "people",
+        "seat"
+    ],
+    "flight+airfare": [
+        "flight",
+        "fare",
+        "dallas",
+        "atlanta",
+        "round"
+    ],
+    "meal": [
+        "meal",
+        "flight",
+        "atlanta",
+        "available",
+        "show"
+    ],
+    "restriction": [
+        "restriction",
+        "ap57",
+        "air",
+        "flight",
+        "pittsburgh"
+    ],
+    "airline+flight_no": [
+        "airline",
+        "flight",
+        "number",
+        "toronto",
+        "columbus"
+    ],
+    "ground_service+ground_fare": [
+        "ground",
+        "transportation",
+        "available",
+        "pittsburgh",
+        "airport"
+    ],
+    "airfare+flight_time": [
+        "show",
+        "cost",
+        "time",
+        "flight",
+        "san"
+    ],
+    "cheapest": [
+        "show",
+        "cheapest",
+        "fare",
+        "database"
+    ],
+    "aircraft+flight+flight_no": [
+        "tell",
+        "flight",
+        "want",
+        "fly",
+        "detroit"
+    ]
+}

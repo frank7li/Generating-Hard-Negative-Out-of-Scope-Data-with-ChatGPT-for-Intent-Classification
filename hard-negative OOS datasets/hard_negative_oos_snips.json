@@ -1,0 +1,362 @@
+[
+    [
+        "do i have to create a new playlist to add songs",
+        "AddToPlaylist"
+    ],
+    [
+        "can i remove a song from my playlist",
+        "AddToPlaylist"
+    ],
+    [
+        "can i put a playlist in my favorites",
+        "AddToPlaylist"
+    ],
+    [
+        "can i rearrange tunes in a playlist",
+        "AddToPlaylist"
+    ],
+    [
+        "can i delete a tune from a playlist",
+        "AddToPlaylist"
+    ],
+    [
+        "can i share a playlist with others",
+        "AddToPlaylist"
+    ],
+    [
+        "can i reorder tunes in a playlist",
+        "AddToPlaylist"
+    ],
+    [
+        "can i download a track or tune",
+        "AddToPlaylist"
+    ],
+    [
+        "can i put a playlist in my queue",
+        "AddToPlaylist"
+    ],
+    [
+        "can i search for a track in a specific playlist",
+        "AddToPlaylist"
+    ],
+    [
+        "can i rearrange tracks in a playlist",
+        "AddToPlaylist"
+    ],
+    [
+        "can i remove a track from a playlist",
+        "AddToPlaylist"
+    ],
+    [
+        "can i book a reservation for the flight",
+        "BookRestaurant"
+    ],
+    [
+        "do i need to book a hotel",
+        "BookRestaurant"
+    ],
+    [
+        "do i need to book a car",
+        "BookRestaurant"
+    ],
+    [
+        "do i need to book a taxi",
+        "BookRestaurant"
+    ],
+    [
+        "can i sit at any restaurant table",
+        "BookRestaurant"
+    ],
+    [
+        "do i need a reservation for takeout",
+        "BookRestaurant"
+    ],
+    [
+        "do i need a reservation for the hotel",
+        "BookRestaurant"
+    ],
+    [
+        "do i need a reservation for the event",
+        "BookRestaurant"
+    ],
+    [
+        "do i need a reservation for the concert",
+        "BookRestaurant"
+    ],
+    [
+        "what's the movie like",
+        "GetWeather"
+    ],
+    [
+        "what's going on",
+        "GetWeather"
+    ],
+    [
+        "what's going to happen",
+        "GetWeather"
+    ],
+    [
+        "what's going to be served for dinner",
+        "GetWeather"
+    ],
+    [
+        "what's it like going there",
+        "GetWeather"
+    ],
+    [
+        "what's the traffic like going downtown",
+        "GetWeather"
+    ],
+    [
+        "what's the atmosphere like going there",
+        "GetWeather"
+    ],
+    [
+        "what's the vibe like going there",
+        "GetWeather"
+    ],
+    [
+        "can you suggest some games to play while listening to music",
+        "PlayMusic"
+    ],
+    [
+        "do you have any suggestions for interactive music experiences",
+        "PlayMusic"
+    ],
+    [
+        "can you recommend a website to play song covers",
+        "PlayMusic"
+    ],
+    [
+        "can you play a sports commentary for me to hear the game updates",
+        "PlayMusic"
+    ],
+    [
+        "do you have any games to play that i might want to try",
+        "PlayMusic"
+    ],
+    [
+        "do you have any games to play that i want to try",
+        "PlayMusic"
+    ],
+    [
+        "do you want to discover new music",
+        "PlayMusic"
+    ],
+    [
+        "what documentary do you want to hear",
+        "PlayMusic"
+    ],
+    [
+        "is it necessary to rate and give feedback on every product we purchase",
+        "RateBook"
+    ],
+    [
+        "is it helpful to rate hotels based on their star ratings",
+        "RateBook"
+    ],
+    [
+        "do you think it's fair to rate and review apps based on star ratings",
+        "RateBook"
+    ],
+    [
+        "is it better to rate products on a scale of points or using a different system",
+        "RateBook"
+    ],
+    [
+        "do you think it is necessary to rate and assign points to customer service experiences",
+        "RateBook"
+    ],
+    [
+        "would it be helpful to rate and assign points to online tutorials",
+        "RateBook"
+    ],
+    [
+        "is it important to rate and monitor current market trends",
+        "RateBook"
+    ],
+    [
+        "should we rate and evaluate current technological advancements",
+        "RateBook"
+    ],
+    [
+        "is it necessary to rate and compare current fashion trends",
+        "RateBook"
+    ],
+    [
+        "should we rate and review current news articles",
+        "RateBook"
+    ],
+    [
+        "should we give movies with bad reviews a second chance",
+        "RateBook"
+    ],
+    [
+        "is it common to give five stars to highly acclaimed plays",
+        "RateBook"
+    ],
+    [
+        "can you give one point to the plot of the movie",
+        "RateBook"
+    ],
+    [
+        "is it fair to give a low point to a poorly acted play",
+        "RateBook"
+    ],
+    [
+        "should we give current trends more attention",
+        "RateBook"
+    ],
+    [
+        "is it necessary to give current events more importance",
+        "RateBook"
+    ],
+    [
+        "should we give more attention to current scientific research",
+        "RateBook"
+    ],
+    [
+        "is it important to give current technology advancements more recognition",
+        "RateBook"
+    ],
+    [
+        "should we rate and give feedback on online courses",
+        "RateBook"
+    ],
+    [
+        "is it common to rate movies based on the number of stars",
+        "RateBook"
+    ],
+    [
+        "is it possible to rate a restaurant based on their star rating",
+        "RateBook"
+    ],
+    [
+        "would you give your favorite restaurant five stars",
+        "RateBook"
+    ],
+    [
+        "is it fair to give low ratings to restaurants without trying them first",
+        "RateBook"
+    ],
+    [
+        "would you give a high point to a well-made documentary",
+        "RateBook"
+    ],
+    [
+        "do you usually give a high point to well-written articles",
+        "RateBook"
+    ],
+    [
+        "are there any significant turning points in current scientific discoveries",
+        "RateBook"
+    ],
+    [
+        "is it better to assign points or stars for rating products",
+        "RateBook"
+    ],
+    [
+        "should we consider both star ratings and points when evaluating a product",
+        "RateBook"
+    ],
+    [
+        "do current events deserve a five-star rating",
+        "RateBook"
+    ],
+    [
+        "is it common to give five stars to current blockbuster movies",
+        "RateBook"
+    ],
+    [
+        "do current music releases often receive high star ratings",
+        "RateBook"
+    ],
+    [
+        "would a current fashion trend receive a five-star rating",
+        "RateBook"
+    ],
+    [
+        "are there any valid points about current environmental issues",
+        "RateBook"
+    ],
+    [
+        "are there any key talking points about current political debates",
+        "RateBook"
+    ],
+    [
+        "are there any strong viewpoints on current social issues",
+        "RateBook"
+    ],
+    [
+        "can you find a store called bargain deals",
+        "SearchCreativeWork"
+    ],
+    [
+        "can you find a hotel called sunset view",
+        "SearchCreativeWork"
+    ],
+    [
+        "can you find a video game console",
+        "SearchCreativeWork"
+    ],
+    [
+        "can you find a place to play basketball",
+        "SearchCreativeWork"
+    ],
+    [
+        "can you find a place to play soccer",
+        "SearchCreativeWork"
+    ],
+    [
+        "can you find a place to play tennis",
+        "SearchCreativeWork"
+    ],
+    [
+        "can you find a place to play golf",
+        "SearchCreativeWork"
+    ],
+    [
+        "can you show me how to play guitar",
+        "SearchCreativeWork"
+    ],
+    [
+        "can you show me how to play chess",
+        "SearchCreativeWork"
+    ],
+    [
+        "can you show me how to play piano",
+        "SearchCreativeWork"
+    ],
+    [
+        "can you show me how to play a sport",
+        "SearchCreativeWork"
+    ],
+    [
+        "are there any sports called ultimate frisbee",
+        "SearchCreativeWork"
+    ],
+    [
+        "are there any instruments called handpan to play",
+        "SearchCreativeWork"
+    ],
+    [
+        "do you want to play a game",
+        "SearchCreativeWork"
+    ],
+    [
+        "can we play a video game",
+        "SearchCreativeWork"
+    ],
+    [
+        "shall we play a board game",
+        "SearchCreativeWork"
+    ],
+    [
+        "do you want to play a card game",
+        "SearchCreativeWork"
+    ],
+    [
+        "are there any changes to the playing schedule",
+        "SearchScreeningEvent"
+    ]
+]

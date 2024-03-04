@@ -1,0 +1,51 @@
+{
+    "AddToPlaylist": [
+        "add",
+        "playlist",
+        "put",
+        "track",
+        "tune"
+    ],
+    "BookRestaurant": [
+        "book",
+        "restaurant",
+        "table",
+        "reservation",
+        "need"
+    ],
+    "GetWeather": [
+        "weather",
+        "forecast",
+        "whats",
+        "like",
+        "going"
+    ],
+    "PlayMusic": [
+        "play",
+        "music",
+        "song",
+        "hear",
+        "want"
+    ],
+    "RateBook": [
+        "rate",
+        "give",
+        "star",
+        "point",
+        "current"
+    ],
+    "SearchCreativeWork": [
+        "find",
+        "show",
+        "called",
+        "game",
+        "play"
+    ],
+    "SearchScreeningEvent": [
+        "movie",
+        "schedule",
+        "playing",
+        "theatre",
+        "find"
+    ]
+}

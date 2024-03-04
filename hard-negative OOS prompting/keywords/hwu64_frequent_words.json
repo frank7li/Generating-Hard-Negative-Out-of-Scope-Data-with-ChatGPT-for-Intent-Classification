@@ -1,0 +1,478 @@
+{
+    "alarm_set": [
+        "alarm",
+        "set",
+        "tomorrow",
+        "five",
+        "wake"
+    ],
+    "audio_volume_mute": [
+        "mute",
+        "please",
+        "speaker",
+        "sound",
+        "quiet"
+    ],
+    "iot_hue_lightchange": [
+        "light",
+        "change",
+        "color",
+        "blue",
+        "make"
+    ],
+    "iot_hue_lightoff": [
+        "light",
+        "turn",
+        "please",
+        "room",
+        "bedroom"
+    ],
+    "iot_hue_lighton": [
+        "light",
+        "turn",
+        "please",
+        "dark",
+        "cant"
+    ],
+    "iot_hue_lightdim": [
+        "light",
+        "lower",
+        "dim",
+        "please",
+        "turn"
+    ],
+    "iot_cleaning": [
+        "vacuum",
+        "cleaner",
+        "start",
+        "robot",
+        "turn"
+    ],
+    "calendar_query": [
+        "meeting",
+        "event",
+        "today",
+        "next",
+        "reminder"
+    ],
+    "play_music": [
+        "play",
+        "song",
+        "music",
+        "playlist",
+        "please"
+    ],
+    "general_quirky": [
+        "date",
+        "today",
+        "tell",
+        "day",
+        "like"
+    ],
+    "general_greet": [
+        "hey",
+        "good",
+        "whats",
+        "hello",
+        "date"
+    ],
+    "datetime_query": [
+        "time",
+        "day",
+        "date",
+        "current",
+        "tell"
+    ],
+    "datetime_convert": [
+        "time",
+        "hundred",
+        "difference",
+        "convert",
+        "zone"
+    ],
+    "takeaway_query": [
+        "order",
+        "doe",
+        "takeaway",
+        "restaurant",
+        "delivery"
+    ],
+    "alarm_remove": [
+        "alarm",
+        "remove",
+        "set",
+        "cancel",
+        "turn"
+    ],
+    "alarm_query": [
+        "alarm",
+        "set",
+        "time",
+        "morning",
+        "tomorrow"
+    ],
+    "news_query": [
+        "news",
+        "latest",
+        "whats",
+        "today",
+        "tell"
+    ],
+    "music_likeness": [
+        "song",
+        "save",
+        "like",
+        "music",
+        "favorite"
+    ],
+    "music_query": [
+        "song",
+        "music",
+        "playing",
+        "name",
+        "tell"
+    ],
+    "iot_hue_lightup": [
+        "light",
+        "please",
+        "turn",
+        "increase",
+        "room"
+    ],
+    "takeaway_order": [
+        "order",
+        "pizza",
+        "food",
+        "takeaway",
+        "takeout"
+    ],
+    "weather_query": [
+        "weather",
+        "today",
+        "week",
+        "need",
+        "going"
+    ],
+    "music_settings": [
+        "song",
+        "repeat",
+        "shuffle",
+        "please",
+        "music"
+    ],
+    "audio_volume_down": [
+        "volume",
+        "lower",
+        "please",
+        "speaker",
+        "turn"
+    ],
+    "general_joke": [
+        "joke",
+        "joketype",
+        "tell",
+        "funny",
+        "good"
+    ],
+    "music_dislikeness": [
+        "song",
+        "dont",
+        "like",
+        "play",
+        "hear"
+    ],
+    "audio_volume_other": [
+        "volume",
+        "change",
+        "setting",
+        "adjust",
+        "sound"
+    ],
+    "iot_coffee": [
+        "coffee",
+        "make",
+        "please",
+        "cup",
+        "machine"
+    ],
+    "audio_volume_up": [
+        "volume",
+        "turn",
+        "please",
+        "increase",
+        "speaker"
+    ],
+    "iot_wemo_on": [
+        "turn",
+        "plug",
+        "socket",
+        "wemo",
+        "smart"
+    ],
+    "iot_wemo_off": [
+        "socket",
+        "turn",
+        "plug",
+        "wemo",
+        "smart"
+    ],
+    "qa_stock": [
+        "stock",
+        "price",
+        "today",
+        "current",
+        "apple"
+    ],
+    "play_radio": [
+        "radio",
+        "play",
+        "station",
+        "please",
+        "turn"
+    ],
+    "social_post": [
+        "tweet",
+        "complaint",
+        "service",
+        "post",
+        "facebook"
+    ],
+    "recommendation_locations": [
+        "shop",
+        "restaurant",
+        "near",
+        "find",
+        "best"
+    ],
+    "cooking_recipe": [
+        "recipe",
+        "cook",
+        "make",
+        "find",
+        "chicken"
+    ],
+    "email_sendemail": [
+        "email",
+        "send",
+        "reply",
+        "please",
+        "mail"
+    ],
+    "qa_factoid": [
+        "tell",
+        "many",
+        "old",
+        "doe",
+        "world"
+    ],
+    "recommendation_events": [
+        "event",
+        "happening",
+        "area",
+        "going",
+        "weekend"
+    ],
+    "calendar_set": [
+        "meeting",
+        "remind",
+        "set",
+        "event",
+        "calendar"
+    ],
+    "play_audiobook": [
+        "play",
+        "audiobook",
+        "resume",
+        "book",
+        "audio"
+    ],
+    "play_podcasts": [
+        "podcast",
+        "play",
+        "episode",
+        "next",
+        "please"
+    ],
+    "social_query": [
+        "facebook",
+        "social",
+        "new",
+        "medium",
+        "twitter"
+    ],
+    "transport_query": [
+        "train",
+        "time",
+        "get",
+        "ticket",
+        "doe"
+    ],
+    "transport_ticket": [
+        "train",
+        "ticket",
+        "book",
+        "new",
+        "york"
+    ],
+    "recommendation_movies": [
+        "movie",
+        "playing",
+        "good",
+        "watch",
+        "new"
+    ],
+    "email_query": [
+        "email",
+        "new",
+        "check",
+        "mail",
+        "last"
+    ],
+    "lists_query": [
+        "list",
+        "tell",
+        "whats",
+        "today",
+        "read"
+    ],
+    "play_game": [
+        "play",
+        "game",
+        "let",
+        "open",
+        "start"
+    ],
+    "calendar_remove": [
+        "event",
+        "calendar",
+        "delete",
+        "remove",
+        "next"
+    ],
+    "transport_traffic": [
+        "traffic",
+        "current",
+        "road",
+        "right",
+        "like"
+    ],
+    "cooking_query": [
+        "cook",
+        "cooky",
+        "cooking",
+        "lunch",
+        "would"
+    ],
+    "qa_definition": [
+        "definition",
+        "define",
+        "doe",
+        "describe",
+        "mean"
+    ],
+    "lists_remove": [
+        "list",
+        "remove",
+        "delete",
+        "item",
+        "please"
+    ],
+    "email_querycontact": [
+        "contact",
+        "number",
+        "phone",
+        "john",
+        "address"
+    ],
+    "lists_createoradd": [
+        "list",
+        "add",
+        "new",
+        "create",
+        "grocery"
+    ],
+    "email_addcontact": [
+        "contact",
+        "email",
+        "add",
+        "new",
+        "please"
+    ],
+    "transport_taxi": [
+        "taxi",
+        "book",
+        "uber",
+        "call",
+        "cab"
+    ],
+    "qa_maths": [
+        "two",
+        "one",
+        "plus",
+        "hundred",
+        "four"
+    ],
+    "qa_currency": [
+        "dollar",
+        "rate",
+        "exchange",
+        "currencysource",
+        "euro"
+    ],
+    "general_negate": [
+        "think",
+        "right",
+        "sorry",
+        "correct",
+        "command"
+    ],
+    "general_dontcare": [
+        "olly",
+        "really",
+        "mind",
+        "one",
+        "matter"
+    ],
+    "general_repeat": [
+        "please",
+        "one",
+        "said",
+        "tell",
+        "time"
+    ],
+    "general_affirm": [
+        "command",
+        "yeah",
+        "yes",
+        "yeap",
+        "response"
+    ],
+    "general_commandstop": [
+        "olly",
+        "please",
+        "shut",
+        "stop",
+        "cancel"
+    ],
+    "general_confirm": [
+        "please",
+        "check",
+        "confirm",
+        "last",
+        "said"
+    ],
+    "general_explain": [
+        "please",
+        "said",
+        "explain",
+        "answer",
+        "clarify"
+    ],
+    "general_praise": [
+        "olly",
+        "thank",
+        "much",
+        "done",
+        "appreciated"
+    ]
+}

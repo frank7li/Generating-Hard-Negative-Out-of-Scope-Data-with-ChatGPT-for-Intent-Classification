@@ -1,0 +1,2938 @@
+[
+    [
+        "what are the benefits of getting a new credit card",
+        "card_arrival"
+    ],
+    [
+        "how can i apply for a new credit card",
+        "card_arrival"
+    ],
+    [
+        "can i upgrade to a new credit card",
+        "card_arrival"
+    ],
+    [
+        "are there any new credit card offers available",
+        "card_arrival"
+    ],
+    [
+        "how can i track my credit card rewards",
+        "card_arrival"
+    ],
+    [
+        "can i track my prepaid card transactions",
+        "card_arrival"
+    ],
+    [
+        "can i track my credit card expenses",
+        "card_arrival"
+    ],
+    [
+        "can i withdraw cash from my credit card every week",
+        "card_arrival"
+    ],
+    [
+        "are there any weekly credit card promotions",
+        "card_arrival"
+    ],
+    [
+        "can i change my credit card billing cycle to every week",
+        "card_arrival"
+    ],
+    [
+        "how can i track my new online order",
+        "card_arrival"
+    ],
+    [
+        "can i track the delivery of my new smartphone",
+        "card_arrival"
+    ],
+    [
+        "can i track the progress of my new package",
+        "card_arrival"
+    ],
+    [
+        "how can i track my new online purchase",
+        "card_arrival"
+    ],
+    [
+        "has my new order been sent",
+        "card_arrival"
+    ],
+    [
+        "has my new package been dispatched",
+        "card_arrival"
+    ],
+    [
+        "is my new item on its way",
+        "card_arrival"
+    ],
+    [
+        "has my new gadget been shipped",
+        "card_arrival"
+    ],
+    [
+        "can i get a new credit card every week",
+        "card_arrival"
+    ],
+    [
+        "are there any new promotions this week",
+        "card_arrival"
+    ],
+    [
+        "can i request a new credit limit each week",
+        "card_arrival"
+    ],
+    [
+        "are there any new discounts this week",
+        "card_arrival"
+    ],
+    [
+        "can i track my sent package online",
+        "card_arrival"
+    ],
+    [
+        "can i track my sent documents",
+        "card_arrival"
+    ],
+    [
+        "can i track my sent international package",
+        "card_arrival"
+    ],
+    [
+        "can i track my sent registered mail",
+        "card_arrival"
+    ],
+    [
+        "can i track my weekly expenses",
+        "card_arrival"
+    ],
+    [
+        "can i track my weekly fitness progress",
+        "card_arrival"
+    ],
+    [
+        "can i track my weekly steps",
+        "card_arrival"
+    ],
+    [
+        "can i track my weekly spending",
+        "card_arrival"
+    ],
+    [
+        "has my package been sent this week",
+        "card_arrival"
+    ],
+    [
+        "are there any new items sent this week",
+        "card_arrival"
+    ],
+    [
+        "have any packages been sent out this week",
+        "card_arrival"
+    ],
+    [
+        "are there any new shipments sent this week",
+        "card_arrival"
+    ],
+    [
+        "can i transfer balance to my new card",
+        "card_linking"
+    ],
+    [
+        "can i keep a found card",
+        "card_linking"
+    ],
+    [
+        "is there an option to share links in the app",
+        "card_linking"
+    ],
+    [
+        "can i download the new app version",
+        "card_linking"
+    ],
+    [
+        "how do i update the app to the new version",
+        "card_linking"
+    ],
+    [
+        "can i install the app on a new device",
+        "card_linking"
+    ],
+    [
+        "how do i customize the app's new layout",
+        "card_linking"
+    ],
+    [
+        "where can i report a found app",
+        "card_linking"
+    ],
+    [
+        "how can i recover a found app",
+        "card_linking"
+    ],
+    [
+        "can i delete a found app from my device",
+        "card_linking"
+    ],
+    [
+        "how do i report a found app",
+        "card_linking"
+    ],
+    [
+        "can i create a new link",
+        "card_linking"
+    ],
+    [
+        "how do i generate a new link",
+        "card_linking"
+    ],
+    [
+        "is there a way to share a new link",
+        "card_linking"
+    ],
+    [
+        "how can i secure a new link",
+        "card_linking"
+    ],
+    [
+        "where can i find a found link",
+        "card_linking"
+    ],
+    [
+        "can i remove a found link",
+        "card_linking"
+    ],
+    [
+        "how do i recover a found link",
+        "card_linking"
+    ],
+    [
+        "where can i report a found link",
+        "card_linking"
+    ],
+    [
+        "where can i report a newly found item",
+        "card_linking"
+    ],
+    [
+        "how do i claim a newly found item",
+        "card_linking"
+    ],
+    [
+        "how can i return a newly found item",
+        "card_linking"
+    ],
+    [
+        "where can i donate a newly found item",
+        "card_linking"
+    ],
+    [
+        "do you know any foreign exchange offices nearby",
+        "exchange_rate"
+    ],
+    [
+        "do you know the interest rate for mortgages",
+        "exchange_rate"
+    ],
+    [
+        "do you know the current inflation rate",
+        "exchange_rate"
+    ],
+    [
+        "do you know the unemployment rate",
+        "exchange_rate"
+    ],
+    [
+        "do you know the current prime interest rate",
+        "exchange_rate"
+    ],
+    [
+        "can i get a better interest rate on my loan",
+        "exchange_rate"
+    ],
+    [
+        "how can i get a lower interest rate on my credit card",
+        "exchange_rate"
+    ],
+    [
+        "can i get a higher interest rate on my savings account",
+        "exchange_rate"
+    ],
+    [
+        "what is the interest rate on foreign loans",
+        "exchange_rate"
+    ],
+    [
+        "what is the tax rate on foreign investments",
+        "exchange_rate"
+    ],
+    [
+        "can i get a better interest rate on foreign savings accounts",
+        "exchange_rate"
+    ],
+    [
+        "what is the tax rate on foreign income",
+        "exchange_rate"
+    ],
+    [
+        "do you know where i can get financial advice",
+        "exchange_rate"
+    ],
+    [
+        "do you know where i can get investment tips",
+        "exchange_rate"
+    ],
+    [
+        "do you know where i can get financial planning assistance",
+        "exchange_rate"
+    ],
+    [
+        "do you know where i can get mortgage advice",
+        "exchange_rate"
+    ],
+    [
+        "do you know any foreign language courses",
+        "exchange_rate"
+    ],
+    [
+        "do you know any foreign cuisine restaurants",
+        "exchange_rate"
+    ],
+    [
+        "do you know any foreign film recommendations",
+        "exchange_rate"
+    ],
+    [
+        "do you know any foreign travel destinations",
+        "exchange_rate"
+    ],
+    [
+        "where can i get foreign language lessons",
+        "exchange_rate"
+    ],
+    [
+        "where can i get foreign books",
+        "exchange_rate"
+    ],
+    [
+        "can i get a job teaching a foreign language",
+        "exchange_rate"
+    ],
+    [
+        "where can i get foreign music albums",
+        "exchange_rate"
+    ],
+    [
+        "what are the benefits of fixed exchange rates",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "is there an additional charge for making an electronic payment",
+        "card_payment_fee_charged"
+    ],
+    [
+        "is it possible for interest rates to be incorrect",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "can bank interest rates be wrong",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "are mortgage interest rates often wrong",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "can credit card interest rates be wrong",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "what is the interest rate when buying a car",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "what is the interest rate on a home purchase",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "what is the sales tax rate for items purchased online",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "what is the interest rate on a specific item purchase",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "can you explain the interest rate on specific items",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "is it possible for currency exchange rates to be incorrect",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "are exchange rates always correct",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "are exchange rates the same for all items purchased",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "does the exchange rate vary for different items purchased",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "is it possible for purchased items to be faulty",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "can items be damaged when purchased",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "is it possible to receive incorrect items after purchasing",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "can there be defects with purchased items",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "are there quality issues with certain items",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "are there any defects in certain items",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "are there any issues with purchased items",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "what items did you purchase",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "what items did you buy",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "what did you purchase",
+        "card_payment_wrong_exchange_rate"
+    ],
+    [
+        "can i add extra notes to my bank statement",
+        "extra_charge_on_statement"
+    ],
+    [
+        "can i request an extra copy of my statement",
+        "extra_charge_on_statement"
+    ],
+    [
+        "can i view my statement online for free",
+        "extra_charge_on_statement"
+    ],
+    [
+        "is there a fee for requesting a printed statement",
+        "extra_charge_on_statement"
+    ],
+    [
+        "can i waive the monthly fee on my statement",
+        "extra_charge_on_statement"
+    ],
+    [
+        "how can i avoid overdraft fees on my statement",
+        "extra_charge_on_statement"
+    ],
+    [
+        "can i request a fee waiver for my statement",
+        "extra_charge_on_statement"
+    ],
+    [
+        "is there an additional charge for rush delivery",
+        "extra_charge_on_statement"
+    ],
+    [
+        "how much will i be charged for this service",
+        "extra_charge_on_statement"
+    ],
+    [
+        "is my cash purchase pending",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "is my cashback pending",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "is my cash refund pending",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "is my cash withdrawal successful",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "can i reverse a cash withdrawal",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "is there a cash shortage at the atm",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "can i deposit cash at the atm",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "is there an atm nearby for cash withdrawal",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "can i check my cash balance at the atm",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "is my cash refund still processing",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "do i still owe cash",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "is my withdrawal pending verification",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "is the atm pending maintenance",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "is my atm transaction pending",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "is the refund still pending",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "can i make a withdrawal at this atm",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "is there a fee for atm withdrawals",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "is the cash withdrawal still available",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "is the withdrawal option still active",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "is the cash withdrawal still permitted",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "is the atm still operational",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "is the atm still dispensing cash",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "is the atm still accepting deposits",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "is the atm still functioning",
+        "pending_cash_withdrawal"
+    ],
+    [
+        "what is the definition of fiat currency",
+        "fiat_currency_support"
+    ],
+    [
+        "is digital currency considered fiat",
+        "fiat_currency_support"
+    ],
+    [
+        "what is the future of fiat currency",
+        "fiat_currency_support"
+    ],
+    [
+        "can i earn interest on currency holdings",
+        "fiat_currency_support"
+    ],
+    [
+        "how long can i hold currency in my account",
+        "fiat_currency_support"
+    ],
+    [
+        "can currency holdings earn rewards",
+        "fiat_currency_support"
+    ],
+    [
+        "what are the benefits of currency holding",
+        "fiat_currency_support"
+    ],
+    [
+        "can i place a hold on a currency transaction",
+        "fiat_currency_support"
+    ],
+    [
+        "how long can i hold a particular currency",
+        "fiat_currency_support"
+    ],
+    [
+        "what are the advantages of holding currency for exchange",
+        "fiat_currency_support"
+    ],
+    [
+        "can i exchange currency immediately after holding it",
+        "fiat_currency_support"
+    ],
+    [
+        "can i earn interest on fiat holdings",
+        "fiat_currency_support"
+    ],
+    [
+        "is fiat holding a secure investment",
+        "fiat_currency_support"
+    ],
+    [
+        "is there a minimum amount for fiat holding",
+        "fiat_currency_support"
+    ],
+    [
+        "can i hold fiat currency for long-term investments",
+        "fiat_currency_support"
+    ],
+    [
+        "can i hold fiat money in a savings account",
+        "fiat_currency_support"
+    ],
+    [
+        "is it wise to hold a large amount of fiat currency",
+        "fiat_currency_support"
+    ],
+    [
+        "can i put a hold on my holding",
+        "fiat_currency_support"
+    ],
+    [
+        "how long can i hold my holding",
+        "fiat_currency_support"
+    ],
+    [
+        "can i earn interest on my holding",
+        "fiat_currency_support"
+    ],
+    [
+        "what are the benefits of long-term holding",
+        "fiat_currency_support"
+    ],
+    [
+        "how long is the lifespan of a credit card",
+        "card_delivery_estimate"
+    ],
+    [
+        "is having a credit card a long-term commitment",
+        "card_delivery_estimate"
+    ],
+    [
+        "how long does it take to activate a credit card",
+        "card_delivery_estimate"
+    ],
+    [
+        "is a long credit card statement a sign of financial trouble",
+        "card_delivery_estimate"
+    ],
+    [
+        "can i schedule card delivery",
+        "card_delivery_estimate"
+    ],
+    [
+        "how long does it take to activate a credit card",
+        "card_delivery_estimate"
+    ],
+    [
+        "what does it take to qualify for a credit card",
+        "card_delivery_estimate"
+    ],
+    [
+        "how long does it usually take to activate a credit card",
+        "card_delivery_estimate"
+    ],
+    [
+        "how long does it usually take for packages to be delivered",
+        "card_delivery_estimate"
+    ],
+    [
+        "how long does it take for online orders to be delivered",
+        "card_delivery_estimate"
+    ],
+    [
+        "does it take long for packages to be delivered",
+        "card_delivery_estimate"
+    ],
+    [
+        "does it take long to get a response",
+        "card_delivery_estimate"
+    ],
+    [
+        "does it take long to cook dinner",
+        "card_delivery_estimate"
+    ],
+    [
+        "does it take long to learn a new language",
+        "card_delivery_estimate"
+    ],
+    [
+        "does it take long to assemble furniture",
+        "card_delivery_estimate"
+    ],
+    [
+        "is home delivery available for the ordered items",
+        "card_delivery_estimate"
+    ],
+    [
+        "is the delivery service reliable for online purchases",
+        "card_delivery_estimate"
+    ],
+    [
+        "how long does it take for packages to be delivered",
+        "card_delivery_estimate"
+    ],
+    [
+        "does it take long for items to be delivered",
+        "card_delivery_estimate"
+    ],
+    [
+        "is the delivery time lengthy",
+        "card_delivery_estimate"
+    ],
+    [
+        "can i schedule an auto top-up for my phone bill",
+        "automatic_top_up"
+    ],
+    [
+        "can i set up auto top-up for my parking fees",
+        "automatic_top_up"
+    ],
+    [
+        "can i enable auto top-up for my streaming subscription",
+        "automatic_top_up"
+    ],
+    [
+        "is there an auto top feature for the tv",
+        "automatic_top_up"
+    ],
+    [
+        "can i set up auto top for my coffee machine",
+        "automatic_top_up"
+    ],
+    [
+        "can i enable auto top for my gas refills",
+        "automatic_top_up"
+    ],
+    [
+        "can the lights turn on automatically",
+        "automatic_top_up"
+    ],
+    [
+        "does the thermostat adjust automatically",
+        "automatic_top_up"
+    ],
+    [
+        "can the doors lock automatically",
+        "automatic_top_up"
+    ],
+    [
+        "does the alarm system arm automatically",
+        "automatic_top_up"
+    ],
+    [
+        "can i auto invest money",
+        "automatic_top_up"
+    ],
+    [
+        "can i auto save money",
+        "automatic_top_up"
+    ],
+    [
+        "can i top up on top of my existing balance",
+        "automatic_top_up"
+    ],
+    [
+        "can i top up and get a discount on the total",
+        "automatic_top_up"
+    ],
+    [
+        "can i top up and receive bonus points",
+        "automatic_top_up"
+    ],
+    [
+        "can i top up and extend my subscription",
+        "automatic_top_up"
+    ],
+    [
+        "can i top up my gaming account with money",
+        "automatic_top_up"
+    ],
+    [
+        "can the temperature adjust automatically",
+        "automatic_top_up"
+    ],
+    [
+        "can the volume increase automatically",
+        "automatic_top_up"
+    ],
+    [
+        "can the lights dim automatically",
+        "automatic_top_up"
+    ],
+    [
+        "can the blinds close automatically",
+        "automatic_top_up"
+    ],
+    [
+        "can i top up my wallet",
+        "automatic_top_up"
+    ],
+    [
+        "can the transactions be categorized automatically",
+        "automatic_top_up"
+    ],
+    [
+        "how do i check the balance on my card",
+        "card_not_working"
+    ],
+    [
+        "how do i apply for a credit card",
+        "card_not_working"
+    ],
+    [
+        "how do i protect my credit card information",
+        "card_not_working"
+    ],
+    [
+        "how can i improve my credit card score",
+        "card_not_working"
+    ],
+    [
+        "can i transfer my credit card balance",
+        "card_not_working"
+    ],
+    [
+        "how do i earn rewards with my credit card",
+        "card_not_working"
+    ],
+    [
+        "how can i protect my card while traveling",
+        "card_not_working"
+    ],
+    [
+        "can't find my membership card. how can i get a new one",
+        "card_not_working"
+    ],
+    [
+        "what should i do if i can't access my card statement online",
+        "card_not_working"
+    ],
+    [
+        "how does remote work impact productivity",
+        "card_not_working"
+    ],
+    [
+        "what are the benefits of flexible working",
+        "card_not_working"
+    ],
+    [
+        "how can i improve work-life balance",
+        "card_not_working"
+    ],
+    [
+        "what are some time management techniques for productive work",
+        "card_not_working"
+    ],
+    [
+        "how can i ensure efficient use of my working hours",
+        "card_not_working"
+    ],
+    [
+        "how can i maximize the use of my working time",
+        "card_not_working"
+    ],
+    [
+        "how can i optimize my productivity at work",
+        "card_not_working"
+    ],
+    [
+        "how can i make the most of my working hours",
+        "card_not_working"
+    ],
+    [
+        "what if i can't find a job after graduating",
+        "card_not_working"
+    ],
+    [
+        "how can i overcome work-related stress",
+        "card_not_working"
+    ],
+    [
+        "what should i do if i can't meet a work deadline",
+        "card_not_working"
+    ],
+    [
+        "how can i handle job rejection gracefully",
+        "card_not_working"
+    ],
+    [
+        "how can i use my skills effectively at work",
+        "card_not_working"
+    ],
+    [
+        "how can i utilize teamwork in the workplace",
+        "card_not_working"
+    ],
+    [
+        "how can i leverage technology for efficient work",
+        "card_not_working"
+    ],
+    [
+        "how can i balance work and personal life",
+        "card_not_working"
+    ],
+    [
+        "what if i can't find work in my field",
+        "card_not_working"
+    ],
+    [
+        "how can i address work-related burnout",
+        "card_not_working"
+    ],
+    [
+        "what if i can't handle the workload at my job",
+        "card_not_working"
+    ],
+    [
+        "how do i cope with work-related stress",
+        "card_not_working"
+    ],
+    [
+        "what if i can't use a certain software",
+        "card_not_working"
+    ],
+    [
+        "how can i troubleshoot if i can't use a specific tool",
+        "card_not_working"
+    ],
+    [
+        "what if i can't use a particular feature",
+        "card_not_working"
+    ],
+    [
+        "is there a currency converter app available",
+        "exchange_via_app"
+    ],
+    [
+        "is there a currency tracking app",
+        "exchange_via_app"
+    ],
+    [
+        "what is the current value of gbp",
+        "exchange_via_app"
+    ],
+    [
+        "which app is best for foreign currency exchange",
+        "exchange_via_app"
+    ],
+    [
+        "is there a reliable currency exchange app",
+        "exchange_via_app"
+    ],
+    [
+        "is there a mobile app for tracking gbp currency",
+        "exchange_via_app"
+    ],
+    [
+        "which app is best for tracking gbp currency",
+        "exchange_via_app"
+    ],
+    [
+        "is there a mobile app for tracking usd currency",
+        "exchange_via_app"
+    ],
+    [
+        "is it illegal to possess a stolen credit card",
+        "lost_or_stolen_card"
+    ],
+    [
+        "can you sell a stolen gift card",
+        "lost_or_stolen_card"
+    ],
+    [
+        "can a lost gift card be replaced",
+        "lost_or_stolen_card"
+    ],
+    [
+        "how do i activate a new credit card",
+        "lost_or_stolen_card"
+    ],
+    [
+        "what documents do i need to apply for a credit card",
+        "lost_or_stolen_card"
+    ],
+    [
+        "how often do i need to update my credit card information",
+        "lost_or_stolen_card"
+    ],
+    [
+        "do i need a pin to use my credit card",
+        "lost_or_stolen_card"
+    ],
+    [
+        "can i retrieve a lost or stolen item",
+        "lost_or_stolen_card"
+    ],
+    [
+        "how can i report a stolen or lost passport",
+        "lost_or_stolen_card"
+    ],
+    [
+        "can i recover a stolen or lost phone",
+        "lost_or_stolen_card"
+    ],
+    [
+        "is there a process to recover a stolen or lost vehicle",
+        "lost_or_stolen_card"
+    ],
+    [
+        "where can i get help if my items are stolen",
+        "lost_or_stolen_card"
+    ],
+    [
+        "how can i seek help for stolen belongings",
+        "lost_or_stolen_card"
+    ],
+    [
+        "is there assistance available for stolen items",
+        "lost_or_stolen_card"
+    ],
+    [
+        "do i need to file a police report for a stolen item",
+        "lost_or_stolen_card"
+    ],
+    [
+        "what steps do i need to take if my belongings are stolen",
+        "lost_or_stolen_card"
+    ],
+    [
+        "where can i seek help for lost items",
+        "lost_or_stolen_card"
+    ],
+    [
+        "how can i get assistance for lost belongings",
+        "lost_or_stolen_card"
+    ],
+    [
+        "where can i find help for a lost item",
+        "lost_or_stolen_card"
+    ],
+    [
+        "what resources are available to help with lost items",
+        "lost_or_stolen_card"
+    ],
+    [
+        "what documents do i need if i've lost important paperwork",
+        "lost_or_stolen_card"
+    ],
+    [
+        "where can i get help if i've lost something valuable",
+        "lost_or_stolen_card"
+    ],
+    [
+        "do i need help to resolve financial issues",
+        "lost_or_stolen_card"
+    ],
+    [
+        "what assistance do i need for managing finances",
+        "lost_or_stolen_card"
+    ],
+    [
+        "how do i get help when i need it",
+        "lost_or_stolen_card"
+    ],
+    [
+        "do i need help with this task",
+        "lost_or_stolen_card"
+    ],
+    [
+        "what documents are required to open a bank account",
+        "age_limit"
+    ],
+    [
+        "can i open a joint account",
+        "age_limit"
+    ],
+    [
+        "what are the requirements to open a business account",
+        "age_limit"
+    ],
+    [
+        "can i open an account online",
+        "age_limit"
+    ],
+    [
+        "do i need to show proof of age to open a bank account",
+        "age_limit"
+    ],
+    [
+        "what are the benefits of a child's bank account",
+        "age_limit"
+    ],
+    [
+        "how can i open a savings account for my child",
+        "age_limit"
+    ],
+    [
+        "can i open a college savings account for my daughter",
+        "age_limit"
+    ],
+    [
+        "how can i add my daughter as a joint account holder",
+        "age_limit"
+    ],
+    [
+        "can i open a bank account for my child online",
+        "age_limit"
+    ],
+    [
+        "can i open a college savings account for my child online",
+        "age_limit"
+    ],
+    [
+        "what are the benefits of opening a bank account for my child",
+        "age_limit"
+    ],
+    [
+        "can i open a college fund for my daughter",
+        "age_limit"
+    ],
+    [
+        "is it possible to open a joint account with my daughter",
+        "age_limit"
+    ],
+    [
+        "how can i teach my child about money management",
+        "age_limit"
+    ],
+    [
+        "what are age-appropriate money lessons for children",
+        "age_limit"
+    ],
+    [
+        "at what age should i start teaching my child about saving",
+        "age_limit"
+    ],
+    [
+        "what are age-appropriate financial responsibilities for children",
+        "age_limit"
+    ],
+    [
+        "what financial lessons should i teach my daughter at her age",
+        "age_limit"
+    ],
+    [
+        "how can i help my daughter develop good financial habits at her age",
+        "age_limit"
+    ],
+    [
+        "what are age-appropriate ways to teach financial literacy to my daughter",
+        "age_limit"
+    ],
+    [
+        "how can i set financial goals with my daughter based on her age",
+        "age_limit"
+    ],
+    [
+        "how can i teach my daughter about budgeting",
+        "age_limit"
+    ],
+    [
+        "what are some ways to encourage my daughter to save money",
+        "age_limit"
+    ],
+    [
+        "how can i involve my daughter in charitable giving",
+        "age_limit"
+    ],
+    [
+        "how can i teach my daughter about the value of money",
+        "age_limit"
+    ],
+    [
+        "can i unblock my pin online",
+        "pin_blocked"
+    ],
+    [
+        "can i unblock my pin myself",
+        "pin_blocked"
+    ],
+    [
+        "can i reset my pin if i type it incorrectly",
+        "pin_blocked"
+    ],
+    [
+        "can i fix a wrong pin myself",
+        "pin_blocked"
+    ],
+    [
+        "how many pin attempts do i have",
+        "pin_blocked"
+    ],
+    [
+        "can you help me unblock my account if i entered the wrong password",
+        "pin_blocked"
+    ],
+    [
+        "can you assist me in unblocking my phone if i entered the wrong unlock code",
+        "pin_blocked"
+    ],
+    [
+        "can you help me unblock a website if i entered the wrong password too many times",
+        "pin_blocked"
+    ],
+    [
+        "can you unblock my account if i accidentally entered the wrong security question",
+        "pin_blocked"
+    ],
+    [
+        "can you help unblock my website if i am blocked",
+        "pin_blocked"
+    ],
+    [
+        "can you assist in unblocking my email if it is blocked",
+        "pin_blocked"
+    ],
+    [
+        "can you help me unblock a website that is blocked on my network",
+        "pin_blocked"
+    ],
+    [
+        "can you assist me in unblocking a restricted app on my device",
+        "pin_blocked"
+    ],
+    [
+        "can you help me unblock multiple users on my account",
+        "pin_blocked"
+    ],
+    [
+        "can you assist me in unblocking multiple ip addresses",
+        "pin_blocked"
+    ],
+    [
+        "can you help me unblock multiple contacts on my phone",
+        "pin_blocked"
+    ],
+    [
+        "can you assist me in unblocking many websites on my computer",
+        "pin_blocked"
+    ],
+    [
+        "is my account blocked if i entered the wrong username multiple times",
+        "pin_blocked"
+    ],
+    [
+        "is my phone blocked if i entered the wrong passcode repeatedly",
+        "pin_blocked"
+    ],
+    [
+        "is my email blocked if i entered the wrong password several times",
+        "pin_blocked"
+    ],
+    [
+        "are there consequences for entering the wrong password multiple times",
+        "pin_blocked"
+    ],
+    [
+        "are there penalties for making too many mistakes",
+        "pin_blocked"
+    ],
+    [
+        "can i be blocked from accessing a website if i make too many requests",
+        "pin_blocked"
+    ],
+    [
+        "will my ip be blocked if i send too many requests",
+        "pin_blocked"
+    ],
+    [
+        "is contactless payment a reliable and efficient working method",
+        "contactless_not_working"
+    ],
+    [
+        "is contactless payment more efficient than traditional methods",
+        "contactless_not_working"
+    ],
+    [
+        "is contactless payment secure",
+        "contactless_not_working"
+    ],
+    [
+        "what are the benefits of contactless payment",
+        "contactless_not_working"
+    ],
+    [
+        "is contactless payment faster than traditional payment methods",
+        "contactless_not_working"
+    ],
+    [
+        "does contactless payment require a pin",
+        "contactless_not_working"
+    ],
+    [
+        "how does remote work affect productivity",
+        "contactless_not_working"
+    ],
+    [
+        "what are the advantages of flexible working arrangements",
+        "contactless_not_working"
+    ],
+    [
+        "how does teamwork contribute to successful work",
+        "contactless_not_working"
+    ],
+    [
+        "what are some strategies for managing workload effectively",
+        "contactless_not_working"
+    ],
+    [
+        "how does remote working impact payment processes",
+        "contactless_not_working"
+    ],
+    [
+        "are online payment platforms secure for remote working",
+        "contactless_not_working"
+    ],
+    [
+        "what are the benefits of digital payments for remote workers",
+        "contactless_not_working"
+    ],
+    [
+        "how can working professionals ensure timely payment processing",
+        "contactless_not_working"
+    ],
+    [
+        "can a company issue multiple working cards to employees",
+        "contactless_not_working"
+    ],
+    [
+        "what are the benefits of having a work card for employees",
+        "contactless_not_working"
+    ],
+    [
+        "what are the different methods of work payment",
+        "contactless_not_working"
+    ],
+    [
+        "how does freelance work affect payment schedules",
+        "contactless_not_working"
+    ],
+    [
+        "what are the tax implications of remote work payments",
+        "contactless_not_working"
+    ],
+    [
+        "how can i track my work payments effectively",
+        "contactless_not_working"
+    ],
+    [
+        "how can i apply for a work credit card",
+        "contactless_not_working"
+    ],
+    [
+        "what are the benefits of having a corporate work card",
+        "contactless_not_working"
+    ],
+    [
+        "how do i protect my payment card information online",
+        "contactless_not_working"
+    ],
+    [
+        "what are the benefits of using a debit card for online payments",
+        "contactless_not_working"
+    ],
+    [
+        "can i transfer money without incurring a fee",
+        "top_up_by_bank_transfer_charge"
+    ],
+    [
+        "can i transfer funds without a fee",
+        "top_up_by_bank_transfer_charge"
+    ],
+    [
+        "can i transfer money easily",
+        "top_up_by_bank_transfer_charge"
+    ],
+    [
+        "how can i transfer money securely",
+        "top_up_by_bank_transfer_charge"
+    ],
+    [
+        "are there any fees for money transfers",
+        "top_up_by_bank_transfer_charge"
+    ],
+    [
+        "can i use swift for money transfers",
+        "top_up_by_bank_transfer_charge"
+    ],
+    [
+        "what is a swift transfer",
+        "top_up_by_bank_transfer_charge"
+    ],
+    [
+        "how long does a swift transfer take",
+        "top_up_by_bank_transfer_charge"
+    ],
+    [
+        "is swift the fastest way to transfer money",
+        "top_up_by_bank_transfer_charge"
+    ],
+    [
+        "what are the charges for this service",
+        "top_up_by_bank_transfer_charge"
+    ],
+    [
+        "are there any additional fees",
+        "top_up_by_bank_transfer_charge"
+    ],
+    [
+        "what is the fee structure",
+        "top_up_by_bank_transfer_charge"
+    ],
+    [
+        "what are the fees for swift transfers",
+        "top_up_by_bank_transfer_charge"
+    ],
+    [
+        "are there any charges for swift transfers",
+        "top_up_by_bank_transfer_charge"
+    ],
+    [
+        "what is the cost of swift transfers",
+        "top_up_by_bank_transfer_charge"
+    ],
+    [
+        "are there any charges for swift transfers",
+        "top_up_by_bank_transfer_charge"
+    ],
+    [
+        "are there any additional charges for swift transfers",
+        "top_up_by_bank_transfer_charge"
+    ],
+    [
+        "what is the process for swift money transfers",
+        "top_up_by_bank_transfer_charge"
+    ],
+    [
+        "how long does a swift money transfer take",
+        "top_up_by_bank_transfer_charge"
+    ],
+    [
+        "can i schedule a top-up in advance",
+        "pending_top_up"
+    ],
+    [
+        "can i top up my account while another transaction is pending",
+        "pending_top_up"
+    ],
+    [
+        "can i top up my account while it's still processing",
+        "pending_top_up"
+    ],
+    [
+        "can i top up my account if it's already fully funded",
+        "pending_top_up"
+    ],
+    [
+        "can i top up my account while it's still processing a transaction",
+        "pending_top_up"
+    ],
+    [
+        "is the pending order still in progress",
+        "pending_top_up"
+    ],
+    [
+        "is there a maximum duration for a pending transaction",
+        "pending_top_up"
+    ],
+    [
+        "can a pending transaction remain in the system for a long time",
+        "pending_top_up"
+    ],
+    [
+        "how long is the movie still playing",
+        "pending_top_up"
+    ],
+    [
+        "are we still waiting for the bus",
+        "pending_top_up"
+    ],
+    [
+        "is it still a long way to go",
+        "pending_top_up"
+    ],
+    [
+        "is the queue still long",
+        "pending_top_up"
+    ],
+    [
+        "is it possible to reverse a transaction after canceling it",
+        "cancel_transfer"
+    ],
+    [
+        "are there any fees for canceling a transaction",
+        "cancel_transfer"
+    ],
+    [
+        "can i transfer funds between different accounts",
+        "cancel_transfer"
+    ],
+    [
+        "how long does a bank transfer usually take",
+        "cancel_transfer"
+    ],
+    [
+        "how do i view my transaction history",
+        "cancel_transfer"
+    ],
+    [
+        "how can i track a transaction i made",
+        "cancel_transfer"
+    ],
+    [
+        "how do i check my account transactions",
+        "cancel_transfer"
+    ],
+    [
+        "can i transfer money between bank accounts",
+        "cancel_transfer"
+    ],
+    [
+        "can i cancel a purchase i made",
+        "cancel_transfer"
+    ],
+    [
+        "can i cancel an order i made",
+        "cancel_transfer"
+    ],
+    [
+        "can i cancel a reservation i made",
+        "cancel_transfer"
+    ],
+    [
+        "can i cancel a booking i made",
+        "cancel_transfer"
+    ],
+    [
+        "can i cancel my bank account",
+        "cancel_transfer"
+    ],
+    [
+        "can i close my account",
+        "cancel_transfer"
+    ],
+    [
+        "can i cancel my subscription account",
+        "cancel_transfer"
+    ],
+    [
+        "how do i track a transfer i made",
+        "cancel_transfer"
+    ],
+    [
+        "can i modify a transfer i made",
+        "cancel_transfer"
+    ],
+    [
+        "how do i verify a transfer i made",
+        "cancel_transfer"
+    ],
+    [
+        "how do i transfer money between accounts",
+        "cancel_transfer"
+    ],
+    [
+        "what are account transfer fees",
+        "cancel_transfer"
+    ],
+    [
+        "can i transfer funds between bank accounts",
+        "cancel_transfer"
+    ],
+    [
+        "what information do i need to transfer funds between accounts",
+        "cancel_transfer"
+    ],
+    [
+        "how do i view my account activity",
+        "cancel_transfer"
+    ],
+    [
+        "can i transfer money from one account to another",
+        "cancel_transfer"
+    ],
+    [
+        "can i use top-up for my top expenses",
+        "top_up_limits"
+    ],
+    [
+        "can i cancel top-ups",
+        "top_up_limits"
+    ],
+    [
+        "can i schedule top-up payments",
+        "top_up_limits"
+    ],
+    [
+        "can i use top balance for top-ups",
+        "top_up_limits"
+    ],
+    [
+        "can i transfer funds from the top balance to top-ups",
+        "top_up_limits"
+    ],
+    [
+        "can i deposit cash at an atm",
+        "wrong_amount_of_cash_received"
+    ],
+    [
+        "does the atm dispense different cash denominations",
+        "wrong_amount_of_cash_received"
+    ],
+    [
+        "can i withdraw money from any atm",
+        "wrong_amount_of_cash_received"
+    ],
+    [
+        "can i exchange money at an atm",
+        "wrong_amount_of_cash_received"
+    ],
+    [
+        "can i get a receipt from an atm",
+        "wrong_amount_of_cash_received"
+    ],
+    [
+        "can i get a balance inquiry at an atm",
+        "wrong_amount_of_cash_received"
+    ],
+    [
+        "can i get a statement from an atm",
+        "wrong_amount_of_cash_received"
+    ],
+    [
+        "what is the minimum amount for cash withdrawals",
+        "wrong_amount_of_cash_received"
+    ],
+    [
+        "can i get a different amount of cash",
+        "wrong_amount_of_cash_received"
+    ],
+    [
+        "can i withdraw cash instead of using a money transfer",
+        "wrong_amount_of_cash_received"
+    ],
+    [
+        "can i exchange cash for money at the bank",
+        "wrong_amount_of_cash_received"
+    ],
+    [
+        "can i get cash from a different atm",
+        "wrong_amount_of_cash_received"
+    ],
+    [
+        "can i get cash in smaller denominations",
+        "wrong_amount_of_cash_received"
+    ],
+    [
+        "can i get cash from an atm without a bank card",
+        "wrong_amount_of_cash_received"
+    ],
+    [
+        "can i get cash from an atm with my phone",
+        "wrong_amount_of_cash_received"
+    ],
+    [
+        "can i get money from an atm using my phone",
+        "wrong_amount_of_cash_received"
+    ],
+    [
+        "can i get money from an atm without a bank card",
+        "wrong_amount_of_cash_received"
+    ],
+    [
+        "are there any annual fees associated with this credit card",
+        "card_payment_fee_charged"
+    ],
+    [
+        "can i waive the annual fee on this credit card",
+        "card_payment_fee_charged"
+    ],
+    [
+        "is there a fee charged for late payments on this account",
+        "card_payment_fee_charged"
+    ],
+    [
+        "does the bank charge a fee for account maintenance",
+        "card_payment_fee_charged"
+    ],
+    [
+        "are there any service fees charged for using the atm",
+        "card_payment_fee_charged"
+    ],
+    [
+        "how long does it take for a charged amount to reflect on my credit card statement",
+        "card_payment_fee_charged"
+    ],
+    [
+        "can i get extra rewards for using this credit card",
+        "card_payment_fee_charged"
+    ],
+    [
+        "what are the extra benefits of this credit card",
+        "card_payment_fee_charged"
+    ],
+    [
+        "is there an extra fee for getting a replacement credit card",
+        "card_payment_fee_charged"
+    ],
+    [
+        "can i set up automatic payments for my credit card",
+        "card_payment_fee_charged"
+    ],
+    [
+        "can i make a minimum payment on my credit card",
+        "card_payment_fee_charged"
+    ],
+    [
+        "do i need to pay extra for gift wrapping",
+        "card_payment_fee_charged"
+    ],
+    [
+        "is there an additional fee for overnight delivery",
+        "card_payment_fee_charged"
+    ],
+    [
+        "do i have to pay extra for a warranty extension",
+        "card_payment_fee_charged"
+    ],
+    [
+        "are there any fees for making a payment over the counter",
+        "card_payment_fee_charged"
+    ],
+    [
+        "are there any additional charges for rush order payments",
+        "card_payment_fee_charged"
+    ],
+    [
+        "is there an additional cost for split payments",
+        "card_payment_fee_charged"
+    ],
+    [
+        "can i transfer money internationally",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "can i track a money transfer",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "can i transfer money to multiple accounts",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "can i reverse a transaction",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "can i request a transaction history",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "is my money available yet",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "has my money been deposited yet",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "should i withdraw the money yet",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "is the money available for withdrawal yet",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "hasn't the money been credited yet",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "how long does a transfer transaction take",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "can i track a transfer transaction",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "can i reverse a transfer transaction",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "has the transfer been processed yet",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "has the transfer been authorized yet",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "hasn't the transfer been processed yet",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "is the transaction completed yet",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "has the transaction been processed yet",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "is the transaction still in progress",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "hasn't the transaction been authorized yet",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "hasn't the transaction been completed yet",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "hasn't the transaction been processed yet",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "hasn't the transaction been confirmed yet",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "hasn't it been completed yet",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "hasn't it been processed yet",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "hasn't it been confirmed yet",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "hasn't it been authorized yet",
+        "transfer_not_received_by_recipient"
+    ],
+    [
+        "can i use my debit card to exchange currency",
+        "supported_cards_and_currencies"
+    ],
+    [
+        "can i withdraw money from my credit card",
+        "supported_cards_and_currencies"
+    ],
+    [
+        "can i use my gift card to withdraw cash",
+        "supported_cards_and_currencies"
+    ],
+    [
+        "can i use my loyalty card for online purchases",
+        "supported_cards_and_currencies"
+    ],
+    [
+        "can i withdraw foreign currency as cash",
+        "supported_cards_and_currencies"
+    ],
+    [
+        "can i transfer currency between accounts",
+        "supported_cards_and_currencies"
+    ],
+    [
+        "can i withdraw currency from my account",
+        "supported_cards_and_currencies"
+    ],
+    [
+        "can i use digital money for online shopping",
+        "supported_cards_and_currencies"
+    ],
+    [
+        "can i use mobile money for payments",
+        "supported_cards_and_currencies"
+    ],
+    [
+        "can i use digital money for peer-to-peer transfers",
+        "supported_cards_and_currencies"
+    ],
+    [
+        "can i transfer money between accounts",
+        "supported_cards_and_currencies"
+    ],
+    [
+        "can i deposit money into my savings account",
+        "supported_cards_and_currencies"
+    ],
+    [
+        "can i transfer money to a joint account",
+        "supported_cards_and_currencies"
+    ],
+    [
+        "can i use my account for online purchases",
+        "supported_cards_and_currencies"
+    ],
+    [
+        "can i use my account for money transfers",
+        "supported_cards_and_currencies"
+    ],
+    [
+        "can i use my account for bill payments",
+        "supported_cards_and_currencies"
+    ],
+    [
+        "can i use my account for investment purposes",
+        "supported_cards_and_currencies"
+    ],
+    [
+        "can you get a rewards card for free",
+        "getting_virtual_card"
+    ],
+    [
+        "did my debit card get activated yet",
+        "getting_virtual_card"
+    ],
+    [
+        "has my gift card expired yet",
+        "getting_virtual_card"
+    ],
+    [
+        "is my credit card transaction complete yet",
+        "getting_virtual_card"
+    ],
+    [
+        "how can i get a virtual phone number",
+        "getting_virtual_card"
+    ],
+    [
+        "can i get a virtual office address",
+        "getting_virtual_card"
+    ],
+    [
+        "how can i get a virtual assistant",
+        "getting_virtual_card"
+    ],
+    [
+        "can i get a virtual tour of the property",
+        "getting_virtual_card"
+    ],
+    [
+        "has the virtual event started yet",
+        "getting_virtual_card"
+    ],
+    [
+        "is the virtual meeting over yet",
+        "getting_virtual_card"
+    ],
+    [
+        "has the virtual conference been announced yet",
+        "getting_virtual_card"
+    ],
+    [
+        "are the virtual tickets available yet",
+        "getting_virtual_card"
+    ],
+    [
+        "can i order a virtual reality headset online",
+        "getting_virtual_card"
+    ],
+    [
+        "can i order a virtual reality game online",
+        "getting_virtual_card"
+    ],
+    [
+        "is it possible to order a virtual concert ticket",
+        "getting_virtual_card"
+    ],
+    [
+        "did i get my refund yet",
+        "getting_virtual_card"
+    ],
+    [
+        "can i get my order yet",
+        "getting_virtual_card"
+    ],
+    [
+        "can i get a refund yet",
+        "getting_virtual_card"
+    ],
+    [
+        "has my package arrived yet",
+        "getting_virtual_card"
+    ],
+    [
+        "can i get expedited shipping for my order",
+        "getting_virtual_card"
+    ],
+    [
+        "can i get a free trial before placing an order",
+        "getting_virtual_card"
+    ],
+    [
+        "can i get a discount on my order",
+        "getting_virtual_card"
+    ],
+    [
+        "can i get a refund for my order",
+        "getting_virtual_card"
+    ],
+    [
+        "is my online order processed yet",
+        "getting_virtual_card"
+    ],
+    [
+        "has my online order shipped yet",
+        "getting_virtual_card"
+    ],
+    [
+        "are there any updates on my order yet",
+        "getting_virtual_card"
+    ],
+    [
+        "can i cancel my order yet",
+        "getting_virtual_card"
+    ],
+    [
+        "can i use my loyalty card for discounts",
+        "card_acceptance"
+    ],
+    [
+        "is a business card different from a personal card",
+        "card_acceptance"
+    ],
+    [
+        "which credit card is best for business travel",
+        "card_acceptance"
+    ],
+    [
+        "can i use google pay here",
+        "card_acceptance"
+    ],
+    [
+        "can i pay with venmo at this establishment",
+        "card_acceptance"
+    ],
+    [
+        "do they honor vendor credits",
+        "card_acceptance"
+    ],
+    [
+        "do they accept business invoices",
+        "card_acceptance"
+    ],
+    [
+        "can i top up my phone using a voucher",
+        "top_up_reverted"
+    ],
+    [
+        "can i top up without using money",
+        "top_up_reverted"
+    ],
+    [
+        "can i top up without using money",
+        "top_up_reverted"
+    ],
+    [
+        "can i change a cancelled top-up",
+        "top_up_reverted"
+    ],
+    [
+        "can i deposit cash into my account",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "what is the cash balance in my account",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i deposit money into my account",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "is a deposit required to open an account",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "has my deposited amount been credited to my account",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i withdraw the deposited amount from my account",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "how long does it take for a cheque to clear in my account",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i cash a cheque from my account",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "what is the cheque clearing process for my account",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i deposit cash into my savings account",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i deposit cash into someone else's account",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i retrieve cash once it's deposited",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i deposit cash without a bank account",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i reverse a cash deposit",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i deposit cash at an atm",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i deposit a cash and cheque together",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i cash a cheque at any bank",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i cash a cheque without a bank account",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i deposit a money order online",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i deposit a check through mobile banking",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i deposit cash at a different branch",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i deposit a foreign cheque at my local bank",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i deposit a post-dated cheque",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i deposit a third-party cheque",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i cash a deposited cheque",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i deposit a stale-dated cheque",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i cancel a deposited cheque",
+        "balance_not_updated_after_cheque_or_cash_deposit"
+    ],
+    [
+        "can i get a refund on a credit card payment",
+        "card_payment_not_recognised"
+    ],
+    [
+        "how can i make a payment through the app",
+        "card_payment_not_recognised"
+    ],
+    [
+        "can i track my payment within the app",
+        "card_payment_not_recognised"
+    ],
+    [
+        "is my payment secure on the app",
+        "card_payment_not_recognised"
+    ],
+    [
+        "can i schedule a payment through the app",
+        "card_payment_not_recognised"
+    ],
+    [
+        "can i view my card details on the app",
+        "card_payment_not_recognised"
+    ],
+    [
+        "can i deactivate a card i don't want to use",
+        "card_payment_not_recognised"
+    ],
+    [
+        "can i uninstall the app i don't use",
+        "card_payment_not_recognised"
+    ],
+    [
+        "can i disable app notifications i don't want",
+        "card_payment_not_recognised"
+    ],
+    [
+        "can i remove an app i don't need",
+        "card_payment_not_recognised"
+    ],
+    [
+        "can i turn off app notifications i don't want",
+        "card_payment_not_recognised"
+    ],
+    [
+        "can i uninstall an app i didn't download",
+        "card_payment_not_recognised"
+    ],
+    [
+        "can i disable a feature i didn't enable in the app",
+        "card_payment_not_recognised"
+    ],
+    [
+        "can i remove an app i didn't install",
+        "card_payment_not_recognised"
+    ],
+    [
+        "can i undo an action i didn't intend",
+        "card_payment_not_recognised"
+    ],
+    [
+        "can i revert changes i didn't make",
+        "card_payment_not_recognised"
+    ],
+    [
+        "what are the factors that can influence a change in detail",
+        "edit_personal_details"
+    ],
+    [
+        "can i alter the specific detail easily",
+        "edit_personal_details"
+    ],
+    [
+        "is it necessary to modify the specific detail",
+        "edit_personal_details"
+    ],
+    [
+        "do you require a change",
+        "edit_personal_details"
+    ],
+    [
+        "is change necessary in this situation",
+        "edit_personal_details"
+    ],
+    [
+        "is change essential for improvement",
+        "edit_personal_details"
+    ],
+    [
+        "do you need to change your approach",
+        "edit_personal_details"
+    ],
+    [
+        "do you need to update your address",
+        "edit_personal_details"
+    ],
+    [
+        "is it necessary to change your address",
+        "edit_personal_details"
+    ],
+    [
+        "do you want to alter your personal preferences",
+        "edit_personal_details"
+    ],
+    [
+        "can personal aspects be altered easily",
+        "edit_personal_details"
+    ],
+    [
+        "should personal modifications be pursued",
+        "edit_personal_details"
+    ],
+    [
+        "do you need specific details",
+        "edit_personal_details"
+    ],
+    [
+        "are detailed specifications required",
+        "edit_personal_details"
+    ],
+    [
+        "is it essential to have specific details",
+        "edit_personal_details"
+    ],
+    [
+        "do you require additional details",
+        "edit_personal_details"
+    ],
+    [
+        "what is the specific address detail",
+        "edit_personal_details"
+    ],
+    [
+        "which address detail needs clarification",
+        "edit_personal_details"
+    ],
+    [
+        "what is the correct address detail",
+        "edit_personal_details"
+    ],
+    [
+        "what is your personal detail",
+        "edit_personal_details"
+    ],
+    [
+        "what is your personal information",
+        "edit_personal_details"
+    ],
+    [
+        "do you require an address",
+        "edit_personal_details"
+    ],
+    [
+        "is an address necessary",
+        "edit_personal_details"
+    ],
+    [
+        "do you require personal information",
+        "edit_personal_details"
+    ],
+    [
+        "what is your personal address",
+        "edit_personal_details"
+    ],
+    [
+        "what is your personal mailing address",
+        "edit_personal_details"
+    ],
+    [
+        "can i use my identity for login",
+        "why_verify_identity"
+    ],
+    [
+        "can i use my identity for purchasing",
+        "why_verify_identity"
+    ],
+    [
+        "can i use my identity for accessing services",
+        "why_verify_identity"
+    ],
+    [
+        "do i need an account",
+        "why_verify_identity"
+    ],
+    [
+        "is an account necessary",
+        "why_verify_identity"
+    ],
+    [
+        "do i require an account",
+        "why_verify_identity"
+    ],
+    [
+        "do i need an account for access",
+        "why_verify_identity"
+    ],
+    [
+        "do i need to use this",
+        "why_verify_identity"
+    ],
+    [
+        "is usage necessary",
+        "why_verify_identity"
+    ],
+    [
+        "do i need to utilize this",
+        "why_verify_identity"
+    ],
+    [
+        "do i require using this",
+        "why_verify_identity"
+    ],
+    [
+        "can i use my account for multiple purposes",
+        "why_verify_identity"
+    ],
+    [
+        "can i use my account for transactions",
+        "why_verify_identity"
+    ],
+    [
+        "can i use my account abroad",
+        "why_verify_identity"
+    ],
+    [
+        "how can i verify my identity for a new bank account",
+        "unable_to_verify_identity"
+    ],
+    [
+        "what is the role of identity in a mobile app",
+        "unable_to_verify_identity"
+    ],
+    [
+        "can i create multiple identities within an app",
+        "unable_to_verify_identity"
+    ],
+    [
+        "is there a way to prove my identity without showing my id card",
+        "unable_to_verify_identity"
+    ],
+    [
+        "how can i verify my purchase on the app",
+        "unable_to_verify_identity"
+    ],
+    [
+        "can i verify my location on the app",
+        "unable_to_verify_identity"
+    ],
+    [
+        "how can i verify app permissions",
+        "unable_to_verify_identity"
+    ],
+    [
+        "can i verify my qualifications",
+        "unable_to_verify_identity"
+    ],
+    [
+        "how do i verify my income",
+        "unable_to_verify_identity"
+    ],
+    [
+        "can i verify my address online",
+        "unable_to_verify_identity"
+    ],
+    [
+        "why is email verification important",
+        "unable_to_verify_identity"
+    ],
+    [
+        "is document verification reliable",
+        "unable_to_verify_identity"
+    ],
+    [
+        "can an app provide proof of purchase",
+        "unable_to_verify_identity"
+    ],
+    [
+        "does the app offer a way to prove authenticity",
+        "unable_to_verify_identity"
+    ],
+    [
+        "can the app provide evidence of service completion",
+        "unable_to_verify_identity"
+    ],
+    [
+        "does the app offer verification for user reviews",
+        "unable_to_verify_identity"
+    ],
+    [
+        "is app verification required for accessing premium features",
+        "unable_to_verify_identity"
+    ],
+    [
+        "what is the difference between proof and verification",
+        "unable_to_verify_identity"
+    ],
+    [
+        "is proof of purchase the same as verification",
+        "unable_to_verify_identity"
+    ],
+    [
+        "what are the security measures for using a pin with a debit card",
+        "get_physical_card"
+    ],
+    [
+        "can i reset my pin on a prepaid card",
+        "get_physical_card"
+    ],
+    [
+        "can i get a pin for a lost debit card",
+        "get_physical_card"
+    ],
+    [
+        "can i get my pin online for a new account",
+        "get_physical_card"
+    ],
+    [
+        "can i get a pin for a membership card",
+        "get_physical_card"
+    ],
+    [
+        "where can i find my pin for my online banking",
+        "get_physical_card"
+    ],
+    [
+        "where can i find the pin for my phone",
+        "get_physical_card"
+    ],
+    [
+        "can i find the pin for my email account",
+        "get_physical_card"
+    ],
+    [
+        "where can i find the pin for my sim card",
+        "get_physical_card"
+    ],
+    [
+        "have i set a pin for my phone yet",
+        "get_physical_card"
+    ],
+    [
+        "have i entered the pin for my new email account yet",
+        "get_physical_card"
+    ],
+    [
+        "have i set a pin for my new smartphone yet",
+        "get_physical_card"
+    ],
+    [
+        "have i received the pin for my online banking yet",
+        "get_physical_card"
+    ],
+    [
+        "how can i get a new library card?\n",
+        "get_physical_card"
+    ],
+    [
+        "how can i get a discount card",
+        "get_physical_card"
+    ],
+    [
+        "how can i get a rewards card",
+        "get_physical_card"
+    ],
+    [
+        "where can i get a gift card",
+        "get_physical_card"
+    ],
+    [
+        "where can i find my library card",
+        "get_physical_card"
+    ],
+    [
+        "where can i find my membership card",
+        "get_physical_card"
+    ],
+    [
+        "where can i find my id card",
+        "get_physical_card"
+    ],
+    [
+        "where can i find my credit card",
+        "get_physical_card"
+    ],
+    [
+        "have i activated my gift card yet",
+        "get_physical_card"
+    ],
+    [
+        "have i registered my credit card yet",
+        "get_physical_card"
+    ],
+    [
+        "can i use my gift card yet",
+        "get_physical_card"
+    ],
+    [
+        "have i activated my debit card yet",
+        "get_physical_card"
+    ],
+    [
+        "where can i find the get started guide",
+        "get_physical_card"
+    ],
+    [
+        "where can i find the get in touch information",
+        "get_physical_card"
+    ],
+    [
+        "where can i find the get started tutorial",
+        "get_physical_card"
+    ],
+    [
+        "where can i find the get help section",
+        "get_physical_card"
+    ],
+    [
+        "did i get my package yet",
+        "get_physical_card"
+    ],
+    [
+        "did i get my refund yet",
+        "get_physical_card"
+    ],
+    [
+        "did i get my exam results yet",
+        "get_physical_card"
+    ],
+    [
+        "did i get my job offer yet",
+        "get_physical_card"
+    ],
+    [
+        "have i found my keys yet",
+        "get_physical_card"
+    ],
+    [
+        "have i found my wallet yet",
+        "get_physical_card"
+    ],
+    [
+        "have i found my phone yet",
+        "get_physical_card"
+    ],
+    [
+        "have i found my car keys yet",
+        "get_physical_card"
+    ],
+    [
+        "can i choose the design on my visa card",
+        "visa_or_mastercard"
+    ],
+    [
+        "how to choose a visa credit limit",
+        "visa_or_mastercard"
+    ],
+    [
+        "can i choose the rewards program on my visa card",
+        "visa_or_mastercard"
+    ],
+    [
+        "can i choose the rewards program on my mastercard",
+        "visa_or_mastercard"
+    ],
+    [
+        "can i choose the credit limit on my mastercard",
+        "visa_or_mastercard"
+    ],
+    [
+        "can i choose the design of my mastercard",
+        "visa_or_mastercard"
+    ],
+    [
+        "how can i get a credit card",
+        "visa_or_mastercard"
+    ],
+    [
+        "how to choose a credit card",
+        "visa_or_mastercard"
+    ],
+    [
+        "can i choose the interest rate on my credit card",
+        "visa_or_mastercard"
+    ],
+    [
+        "can i choose the payment due date on my credit card",
+        "visa_or_mastercard"
+    ],
+    [
+        "can i choose the card issuer when getting a credit card",
+        "visa_or_mastercard"
+    ],
+    [
+        "can i check my top-up balance online",
+        "topping_up_by_card"
+    ],
+    [
+        "can i withdraw money from my card",
+        "topping_up_by_card"
+    ],
+    [
+        "is my money safe on the card",
+        "topping_up_by_card"
+    ],
+    [
+        "can i transfer credit from one card to another",
+        "topping_up_by_card"
+    ],
+    [
+        "can i earn reward points by using my credit card",
+        "topping_up_by_card"
+    ],
+    [
+        "can i check the balance of my account online",
+        "topping_up_by_card"
+    ],
+    [
+        "are there any fees associated with account balances",
+        "topping_up_by_card"
+    ],
+    [
+        "can i earn cashback with my credit card",
+        "topping_up_by_card"
+    ],
+    [
+        "can i transfer credit between different accounts",
+        "topping_up_by_card"
+    ],
+    [
+        "can i view my credit account balance online",
+        "topping_up_by_card"
+    ],
+    [
+        "can i access my credit account from multiple devices",
+        "topping_up_by_card"
+    ],
+    [
+        "what are the benefits of using disposable cards",
+        "disposable_card_limits"
+    ],
+    [
+        "can i have multiple debit cards",
+        "disposable_card_limits"
+    ],
+    [
+        "can i use multiple gift cards together",
+        "disposable_card_limits"
+    ],
+    [
+        "can i have many loyalty cards",
+        "disposable_card_limits"
+    ],
+    [
+        "is there a limit on disposable phone numbers",
+        "disposable_card_limits"
+    ],
+    [
+        "are there any limits on disposable email addresses",
+        "disposable_card_limits"
+    ],
+    [
+        "are there any limits on disposable sim cards",
+        "disposable_card_limits"
+    ],
+    [
+        "is there a limit on disposable digital coupons",
+        "disposable_card_limits"
+    ],
+    [
+        "can i have many disposable phone numbers",
+        "disposable_card_limits"
+    ],
+    [
+        "can i have multiple disposable email addresses",
+        "disposable_card_limits"
+    ],
+    [
+        "can i create many disposable profiles",
+        "disposable_card_limits"
+    ],
+    [
+        "can i generate multiple disposable passwords",
+        "disposable_card_limits"
+    ],
+    [
+        "can i get a virtual disposable phone number",
+        "disposable_card_limits"
+    ],
+    [
+        "can i use a virtual disposable email address",
+        "disposable_card_limits"
+    ],
+    [
+        "can i create a virtual disposable identity",
+        "disposable_card_limits"
+    ],
+    [
+        "are there many limits on discount codes",
+        "disposable_card_limits"
+    ],
+    [
+        "are there many limits on data usage",
+        "disposable_card_limits"
+    ],
+    [
+        "are there many limits on device connections",
+        "disposable_card_limits"
+    ],
+    [
+        "are there limits on virtual meeting participants",
+        "disposable_card_limits"
+    ],
+    [
+        "are there limits on virtual event attendees",
+        "disposable_card_limits"
+    ],
+    [
+        "are there limits on virtual class size",
+        "disposable_card_limits"
+    ],
+    [
+        "are there limits on virtual conference participants",
+        "disposable_card_limits"
+    ],
+    [
+        "can i have many virtual meetings",
+        "disposable_card_limits"
+    ],
+    [
+        "can i create many virtual events",
+        "disposable_card_limits"
+    ],
+    [
+        "can i host many virtual webinars",
+        "disposable_card_limits"
+    ],
+    [
+        "can i invite many people to a virtual gathering",
+        "disposable_card_limits"
+    ],
+    [
+        "can someone lend me their library card",
+        "compromised_card"
+    ],
+    [
+        "can someone buy me a gift card",
+        "compromised_card"
+    ],
+    [
+        "do you think my library card is still valid",
+        "compromised_card"
+    ],
+    [
+        "do you think my credit card application will be approved",
+        "compromised_card"
+    ],
+    [
+        "do you think i should apply for a new loyalty card",
+        "compromised_card"
+    ],
+    [
+        "do you think i have enough credit on my card",
+        "compromised_card"
+    ],
+    [
+        "how can i track a credit card transaction",
+        "compromised_card"
+    ],
+    [
+        "are you using my gift card",
+        "compromised_card"
+    ],
+    [
+        "is someone else using my discount card",
+        "compromised_card"
+    ],
+    [
+        "can i lend my credit card for online shopping",
+        "compromised_card"
+    ],
+    [
+        "do you think someone stole my lunch",
+        "compromised_card"
+    ],
+    [
+        "do you think someone is following me",
+        "compromised_card"
+    ],
+    [
+        "do you think someone is watching us",
+        "compromised_card"
+    ],
+    [
+        "do you think someone is impersonating me",
+        "compromised_card"
+    ],
+    [
+        "is someone monitoring my financial transactions",
+        "compromised_card"
+    ],
+    [
+        "can someone reverse my completed transaction",
+        "compromised_card"
+    ],
+    [
+        "is someone using my netflix account",
+        "compromised_card"
+    ],
+    [
+        "is someone using my wi-fi network",
+        "compromised_card"
+    ],
+    [
+        "is someone using my gym membership",
+        "compromised_card"
+    ],
+    [
+        "can someone else use my phone",
+        "compromised_card"
+    ],
+    [
+        "do you think my transaction will be approved",
+        "compromised_card"
+    ],
+    [
+        "do you think i should cancel my transaction?\n",
+        "compromised_card"
+    ],
+    [
+        "do you think my online transaction was successful",
+        "compromised_card"
+    ],
+    [
+        "do you think i need to verify my transaction",
+        "compromised_card"
+    ],
+    [
+        "do you think someone is using my netflix account",
+        "compromised_card"
+    ],
+    [
+        "do you think someone is using my wi-fi network",
+        "compromised_card"
+    ],
+    [
+        "do you think someone is using my car",
+        "compromised_card"
+    ],
+    [
+        "do you think someone is using my email account",
+        "compromised_card"
+    ]
+]

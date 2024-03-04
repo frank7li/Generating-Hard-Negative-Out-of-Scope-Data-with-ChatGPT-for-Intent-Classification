@@ -1,0 +1,882 @@
+[
+    [
+        "can you show flight details for private jets",
+        "flight"
+    ],
+    [
+        "can you show a flight demonstration",
+        "flight"
+    ],
+    [
+        "can you show a flight attendant's uniform",
+        "flight"
+    ],
+    [
+        "is boston a popular destination for flight enthusiasts",
+        "flight"
+    ],
+    [
+        "can you recommend flights of stairs in boston for sightseeing",
+        "flight"
+    ],
+    [
+        "is san francisco a popular flight hub",
+        "flight"
+    ],
+    [
+        "can you show highlights of boston",
+        "flight"
+    ],
+    [
+        "can you show popular attractions in boston",
+        "flight"
+    ],
+    [
+        "can you show me a map of boston",
+        "flight"
+    ],
+    [
+        "can you show the weather in boston",
+        "flight"
+    ],
+    [
+        "can you show me attractions in san francisco",
+        "flight"
+    ],
+    [
+        "can you show me hotels in san diego",
+        "flight"
+    ],
+    [
+        "can you show me local cuisine in san antonio",
+        "flight"
+    ],
+    [
+        "can you show me tourist spots in san jose",
+        "flight"
+    ],
+    [
+        "can you show live music venues in denver",
+        "flight"
+    ],
+    [
+        "can you show hiking trails near denver",
+        "flight"
+    ],
+    [
+        "can you show me art galleries in denver",
+        "flight"
+    ],
+    [
+        "can you show me the nightlife in denver",
+        "flight"
+    ],
+    [
+        "are there any similarities between boston and san francisco",
+        "flight"
+    ],
+    [
+        "can you compare boston and san diego",
+        "flight"
+    ],
+    [
+        "are there sports rivalries between boston and denver",
+        "flight"
+    ],
+    [
+        "can you compare the climate in boston and denver",
+        "flight"
+    ],
+    [
+        "are there cultural similarities between boston and denver",
+        "flight"
+    ],
+    [
+        "can you recommend restaurants in boston and denver",
+        "flight"
+    ],
+    [
+        "what is the time difference between san francisco and denver",
+        "flight"
+    ],
+    [
+        "can you recommend outdoor activities in denver and san diego",
+        "flight"
+    ],
+    [
+        "is san antonio more affordable than denver",
+        "flight"
+    ],
+    [
+        "can you recommend sightseeing spots in san francisco and denver",
+        "flight"
+    ],
+    [
+        "are there any time zone differences between san francisco and new york",
+        "flight_time"
+    ],
+    [
+        "what time is sunset in san diego today",
+        "flight_time"
+    ],
+    [
+        "what is the local time in san francisco now",
+        "flight_time"
+    ],
+    [
+        "what time does the train arrive in san jose",
+        "flight_time"
+    ],
+    [
+        "what time does the golden gate bridge open",
+        "flight_time"
+    ],
+    [
+        "what time does the cable car start operating in san francisco",
+        "flight_time"
+    ],
+    [
+        "what time does the san francisco giants game start",
+        "flight_time"
+    ],
+    [
+        "what time does the museum close in san francisco",
+        "flight_time"
+    ],
+    [
+        "what time does the boston marathon start",
+        "flight_time"
+    ],
+    [
+        "what time does the red sox game end",
+        "flight_time"
+    ],
+    [
+        "what time is the sunrise in boston tomorrow",
+        "flight_time"
+    ],
+    [
+        "what time does the boston public library close",
+        "flight_time"
+    ],
+    [
+        "is san francisco known for its food scene",
+        "flight_time"
+    ],
+    [
+        "are there any parks in san francisco",
+        "flight_time"
+    ],
+    [
+        "what is the weather like in san francisco today",
+        "flight_time"
+    ],
+    [
+        "is san francisco a good city for sightseeing",
+        "flight_time"
+    ],
+    [
+        "what are the top attractions in san francisco and boston",
+        "flight_time"
+    ],
+    [
+        "are there direct train routes from san francisco to boston",
+        "flight_time"
+    ],
+    [
+        "what time is the game between the san francisco giants and the boston red sox",
+        "flight_time"
+    ],
+    [
+        "are there direct train routes from san francisco to boston",
+        "flight_time"
+    ],
+    [
+        "can you show me the fare breakdown",
+        "airfare"
+    ],
+    [
+        "can i extend my round trip duration",
+        "airfare"
+    ],
+    [
+        "can you show me the in-flight entertainment options for the round trip",
+        "airfare"
+    ],
+    [
+        "can you show me the flight status",
+        "airfare"
+    ],
+    [
+        "can you show me the in-flight entertainment options",
+        "airfare"
+    ],
+    [
+        "can you show me the flight route",
+        "airfare"
+    ],
+    [
+        "are aircraft used for scientific research purposes",
+        "aircraft"
+    ],
+    [
+        "can aircraft be used for aerial photography",
+        "aircraft"
+    ],
+    [
+        "what are the top attractions in boston for aircraft enthusiasts",
+        "aircraft"
+    ],
+    [
+        "is boston a frequent stop for aircraft charter services",
+        "aircraft"
+    ],
+    [
+        "what type of fuel is used in space missions",
+        "aircraft"
+    ],
+    [
+        "what type of communication is used in underwater exploration",
+        "aircraft"
+    ],
+    [
+        "what type of software is used for video editing",
+        "aircraft"
+    ],
+    [
+        "what type of paint is used for outdoor murals",
+        "aircraft"
+    ],
+    [
+        "what type of cuisine is popular in boston",
+        "aircraft"
+    ],
+    [
+        "what type of architecture is prominent in boston",
+        "aircraft"
+    ],
+    [
+        "what type of transportation is available in boston",
+        "aircraft"
+    ],
+    [
+        "what type of music is popular in boston",
+        "aircraft"
+    ],
+    [
+        "what type of currency is used in boston",
+        "aircraft"
+    ],
+    [
+        "what type of public transportation is used in boston",
+        "aircraft"
+    ],
+    [
+        "what type of cuisine is commonly used in boston",
+        "aircraft"
+    ],
+    [
+        "what type of technology is commonly used in boston's education sector",
+        "aircraft"
+    ],
+    [
+        "what type of fuel is used for space flights",
+        "aircraft"
+    ],
+    [
+        "what types of technology are used in virtual reality flight simulators",
+        "aircraft"
+    ],
+    [
+        "what are the advantages of using ground transportation",
+        "ground_service"
+    ],
+    [
+        "are there parking facilities available downtown",
+        "ground_service"
+    ],
+    [
+        "are there public restrooms available downtown",
+        "ground_service"
+    ],
+    [
+        "what is the significance of an airport's name",
+        "airport"
+    ],
+    [
+        "what factors determine an airport's name",
+        "airport"
+    ],
+    [
+        "are airport names influenced by local culture",
+        "airport"
+    ],
+    [
+        "can you recommend a hotel near the new delhi airport",
+        "airport"
+    ],
+    [
+        "what is the name of the famous street in denver",
+        "airport"
+    ],
+    [
+        "what is the name of the denver broncos' stadium",
+        "airport"
+    ],
+    [
+        "what is the name of the university in denver",
+        "airport"
+    ],
+    [
+        "what is the name of the famous mountain near denver",
+        "airport"
+    ],
+    [
+        "what is the name of the famous bridge in new york",
+        "airport"
+    ],
+    [
+        "what is the name of the famous museum in new orleans?\n",
+        "airport"
+    ],
+    [
+        "what is the name of the main library in newark",
+        "airport"
+    ],
+    [
+        "what is the name of the famous park in new york city",
+        "airport"
+    ],
+    [
+        "what is the name of the famous theater in new york",
+        "airport"
+    ],
+    [
+        "what is the name of the famous art museum in new york",
+        "airport"
+    ],
+    [
+        "what is the name of the famous university in new york",
+        "airport"
+    ],
+    [
+        "what is the name of the famous cathedral in new york",
+        "airport"
+    ],
+    [
+        "is there a direct train from denver to newark",
+        "airport"
+    ],
+    [
+        "what are the time zone differences between denver and new york",
+        "airport"
+    ],
+    [
+        "what is the time difference between denver and new york",
+        "airport"
+    ],
+    [
+        "what are the popular attractions in denver and new york",
+        "airport"
+    ],
+    [
+        "what is the population of new york city",
+        "airport"
+    ],
+    [
+        "what are the top landmarks in new york city",
+        "airport"
+    ],
+    [
+        "what is the new york stock exchange",
+        "airport"
+    ],
+    [
+        "what are some popular broadway shows in new york",
+        "airport"
+    ],
+    [
+        "what attractions are there in denver",
+        "airline"
+    ],
+    [
+        "can i bring a pet on my flight to boston",
+        "airline"
+    ],
+    [
+        "what are the popular attractions in boston and denver",
+        "airline"
+    ],
+    [
+        "what is the time difference between boston and denver",
+        "airline"
+    ],
+    [
+        "what is the weather like in denver for flying",
+        "airline"
+    ],
+    [
+        "are there any far airports",
+        "distance"
+    ],
+    [
+        "is airport distance important",
+        "distance"
+    ],
+    [
+        "is downtown near the airport",
+        "distance"
+    ],
+    [
+        "is the airport wait long",
+        "distance"
+    ],
+    [
+        "are airport lines long",
+        "distance"
+    ],
+    [
+        "is the airport runway long",
+        "distance"
+    ],
+    [
+        "is downtown far away",
+        "distance"
+    ],
+    [
+        "is downtown within reach",
+        "distance"
+    ],
+    [
+        "is downtown too far to walk",
+        "distance"
+    ],
+    [
+        "are airport layovers long",
+        "distance"
+    ],
+    [
+        "is the distance worth the effort",
+        "distance"
+    ],
+    [
+        "is downtown within walking distance",
+        "distance"
+    ],
+    [
+        "what is the meaning of the code for john doe's identification",
+        "abbreviation"
+    ],
+    [
+        "is there a specific access code for john doe's personal files",
+        "abbreviation"
+    ],
+    [
+        "does john doe have a secret code",
+        "abbreviation"
+    ],
+    [
+        "is there a dress code for the doe family reunion",
+        "abbreviation"
+    ],
+    [
+        "what does the dress code mean",
+        "abbreviation"
+    ],
+    [
+        "what does the bar code mean",
+        "abbreviation"
+    ],
+    [
+        "what does the qr code mean",
+        "abbreviation"
+    ],
+    [
+        "what does the zip code mean",
+        "abbreviation"
+    ],
+    [
+        "what does john doe's email address mean",
+        "abbreviation"
+    ],
+    [
+        "what does john doe's job title mean",
+        "abbreviation"
+    ],
+    [
+        "what does john doe's middle name mean",
+        "abbreviation"
+    ],
+    [
+        "what does john doe's nickname mean",
+        "abbreviation"
+    ],
+    [
+        "what is the average cost of renting a limousine for a wedding",
+        "ground_fare"
+    ],
+    [
+        "what is the cost of a limousine for a prom night",
+        "ground_fare"
+    ],
+    [
+        "how much does a luxury car rental cost per day",
+        "ground_fare"
+    ],
+    [
+        "what is the cost of buying a used car",
+        "ground_fare"
+    ],
+    [
+        "what is the average cost of car maintenance",
+        "ground_fare"
+    ],
+    [
+        "what is the cost of car insurance",
+        "ground_fare"
+    ],
+    [
+        "what is the cost of a vacation home rental",
+        "ground_fare"
+    ],
+    [
+        "what is the cost of a boat rental",
+        "ground_fare"
+    ],
+    [
+        "what is the cost of equipment rental",
+        "ground_fare"
+    ],
+    [
+        "how much does the internet service cost",
+        "ground_fare"
+    ],
+    [
+        "how much does the gym membership cost",
+        "ground_fare"
+    ],
+    [
+        "how much does the concert ticket cost",
+        "ground_fare"
+    ],
+    [
+        "how much does the spa treatment cost",
+        "ground_fare"
+    ],
+    [
+        "can i rent a limousine that looks like a vintage car",
+        "ground_fare"
+    ],
+    [
+        "can a limousine be converted into a self-driving car",
+        "ground_fare"
+    ],
+    [
+        "what is the difference between a limousine and a regular car",
+        "ground_fare"
+    ],
+    [
+        "what are the requirements for limousine rental",
+        "ground_fare"
+    ],
+    [
+        "what is the process for booking a limousine rental",
+        "ground_fare"
+    ],
+    [
+        "what is the minimum age for car rentals",
+        "ground_fare"
+    ],
+    [
+        "how much does a luxury car cost to buy",
+        "ground_fare"
+    ],
+    [
+        "how much does a car lease cost per month",
+        "ground_fare"
+    ],
+    [
+        "how much does a vacation rental cost",
+        "ground_fare"
+    ],
+    [
+        "how much does a bike rental cost per hour",
+        "ground_fare"
+    ],
+    [
+        "what is the cost of equipment rental per day",
+        "ground_fare"
+    ],
+    [
+        "how much does a vacation home rental cost per week",
+        "ground_fare"
+    ],
+    [
+        "is there a dress code for first class flights",
+        "quantity"
+    ],
+    [
+        "does economy class have many amenities compared to business class",
+        "quantity"
+    ],
+    [
+        "is there many doughnut shops in this city",
+        "quantity"
+    ],
+    [
+        "is there a bakery that sells many different types of croissants",
+        "quantity"
+    ],
+    [
+        "are there many options for outdoor activities in this area",
+        "quantity"
+    ],
+    [
+        "are there many deer in this national park",
+        "quantity"
+    ],
+    [
+        "are there many first-time visitors to this museum",
+        "quantity"
+    ],
+    [
+        "do many people choose first-floor apartments",
+        "quantity"
+    ],
+    [
+        "is there a flight attendant named john doe",
+        "quantity"
+    ],
+    [
+        "does the flight path pass over doe creek",
+        "quantity"
+    ],
+    [
+        "do infants fly in first class",
+        "quantity"
+    ],
+    [
+        "is john doe taking a first-class flight",
+        "quantity"
+    ],
+    [
+        "is there a doe family reunion in first class",
+        "quantity"
+    ],
+    [
+        "can john doe bring a guest to the first-class lounge",
+        "quantity"
+    ],
+    [
+        "what are the popular international destinations from this city",
+        "city"
+    ],
+    [
+        "can you show me the city's top attractions",
+        "city"
+    ],
+    [
+        "can you show me the city's current weather",
+        "city"
+    ],
+    [
+        "what is the contact number for hotels in minneapolis",
+        "flight_no"
+    ],
+    [
+        "what is the emergency contact number for minneapolis",
+        "flight_no"
+    ],
+    [
+        "what is the phone number for the minneapolis tourism office",
+        "flight_no"
+    ],
+    [
+        "what is the contact number for hotels in san francisco",
+        "flight_no"
+    ],
+    [
+        "is there a phone number for the san diego zoo",
+        "flight_no"
+    ],
+    [
+        "what is the phone number for the san francisco giants ticket office",
+        "flight_no"
+    ],
+    [
+        "what is the contact number for the san francisco public library",
+        "flight_no"
+    ],
+    [
+        "what is the phone number for san francisco city hall",
+        "flight_no"
+    ],
+    [
+        "what is the phone number for the san francisco museum of modern art",
+        "flight_no"
+    ],
+    [
+        "what is the customer service number for san francisco cable cars",
+        "flight_no"
+    ],
+    [
+        "what is the weather like in minneapolis and san francisco",
+        "flight_no"
+    ],
+    [
+        "what are the time zone differences between minneapolis and san francisco",
+        "flight_no"
+    ],
+    [
+        "what attractions are there in minneapolis and san francisco",
+        "flight_no"
+    ],
+    [
+        "what is the cost of living in minneapolis compared to san francisco",
+        "flight_no"
+    ],
+    [
+        "what is the best time to visit san francisco",
+        "flight_no"
+    ],
+    [
+        "what is the hotel availability in san francisco",
+        "flight_no"
+    ],
+    [
+        "what is the public transportation system like in san francisco",
+        "flight_no"
+    ],
+    [
+        "what are the popular tourist attractions in san francisco",
+        "flight_no"
+    ],
+    [
+        "how many gallons is the fuel capacity of a standard car",
+        "capacity"
+    ],
+    [
+        "how many songs can a 16gb ipod hold",
+        "capacity"
+    ],
+    [
+        "how many people can sit in a movie theater row",
+        "capacity"
+    ],
+    [
+        "how many guests can a dining table accommodate",
+        "capacity"
+    ],
+    [
+        "are there many seating options available at the park",
+        "capacity"
+    ],
+    [
+        "are there many people attending the concert",
+        "capacity"
+    ],
+    [
+        "how many people are on the guest list for the party",
+        "capacity"
+    ],
+    [
+        "are there many people in line for the movie premiere",
+        "capacity"
+    ],
+    [
+        "is there allocated seating for every guest at the wedding reception",
+        "capacity"
+    ],
+    [
+        "are there assigned seating for people at the event",
+        "capacity"
+    ],
+    [
+        "are there designated seating areas for certain groups of people",
+        "capacity"
+    ],
+    [
+        "are the seating positions ergonomically designed for comfortable seating",
+        "capacity"
+    ],
+    [
+        "do all the people have assigned seats at the theater",
+        "capacity"
+    ],
+    [
+        "are there designated seating areas for different groups of people",
+        "capacity"
+    ],
+    [
+        "what are the meal options at restaurants in atlanta",
+        "meal"
+    ],
+    [
+        "are there any meal discounts available",
+        "meal"
+    ],
+    [
+        "are there any meal delivery services available",
+        "meal"
+    ],
+    [
+        "can you show me the meal preparation process",
+        "meal"
+    ],
+    [
+        "can you show me the flight gate number",
+        "meal"
+    ],
+    [
+        "are there any hotels available in atlanta",
+        "meal"
+    ],
+    [
+        "are there any shopping malls available in atlanta",
+        "meal"
+    ],
+    [
+        "are there any tourist attractions available in atlanta",
+        "meal"
+    ],
+    [
+        "can you show me the atlanta city map",
+        "meal"
+    ],
+    [
+        "can you show me the atlanta weather forecast",
+        "meal"
+    ],
+    [
+        "can you show me the atlanta traffic conditions",
+        "meal"
+    ],
+    [
+        "can you show me the atlanta skyline",
+        "meal"
+    ],
+    [
+        "can you show me the available parking spaces",
+        "meal"
+    ],
+    [
+        "can you show me the available hotel rooms",
+        "meal"
+    ],
+    [
+        "can you show me the available concert tickets",
+        "meal"
+    ],
+    [
+        "is ap57 applicable to flights from pittsburgh",
+        "restriction"
+    ],
+    [
+        "is ap57 a preferred choice for flights from pittsburgh",
+        "restriction"
+    ],
+    [
+        "what are the benefits of air travel over a regular flight",
+        "restriction"
+    ]
+]
